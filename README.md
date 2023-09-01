@@ -1,5 +1,5 @@
 ## Attention-Classification
-Slip detection with [Franka Emika](https://www.franka.de/) and [GelSight Sensors](https://www.gelsight.com/gelsightmini/) .
+*Slip detection* with [Franka Emika](https://www.franka.de/) and [GelSight Sensors](https://www.gelsight.com/gelsightmini/) .
 
 ## Précis
 
