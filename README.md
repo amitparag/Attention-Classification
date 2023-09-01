@@ -73,7 +73,7 @@ Slip detection with Franka Emika and GelSight Sensors.
 
 
 
-## Model Acrhitecture
+## Model Architecture
 
 
 ## Some Problems you may face
