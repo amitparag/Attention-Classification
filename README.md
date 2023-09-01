@@ -8,8 +8,8 @@ Slip detection with Franka Emika and GelSight Sensors.
 ## Training
 
   
-  Dataset/
-  
+
+      root_dir/
       ├── train/
   
        ├── slip/
