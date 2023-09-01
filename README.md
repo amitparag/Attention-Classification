@@ -10,7 +10,7 @@ Slip detection with Franka Emika and GelSight Sensors.
   
   Dataset/
   
-    ├── train/
+      ├── train/
   
        ├── slip/
     
