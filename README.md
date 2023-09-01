@@ -7,34 +7,66 @@ Slip detection with Franka Emika and GelSight Sensors.
 
 ## Training
 
-dataset/
-├── train/
-│ ├── slip/
-│ │ ├── video1.avi
-│ │ ├── video2.avi
-│ │ └── ...
-│ └── wriggle/
-│   ├── video1.avi
-│   ├── video2.avi
-│   └── ...
-├── test/
-│ ├── slip/
-│ │ ├── video1.avi
-│ │ ├── video2.avi
-│ │ └── ...
-│ └── wriggle/
-│   ├── video1.avi
-│   ├── video2.avi
-│   └── ...
-└── validation/
-├── slip/
-│ ├── video1.avi
-│ ├── video2.avi
-│ └── ...
-└── wriggle/
-  ├── video1.avi
-  ├── video2.avi
-  └── ...
+  dataset/
+  
+    ├── train/
+  
+       ├── slip/
+    
+           ├── video1.avi
+    
+           ├── video2.avi
+    
+           └── ...
+     
+      └── wriggle/
+       
+          ├── video1.avi
+    
+          ├── video2.avi
+    
+          └── ...
+
+      
+    ├── test/
+  
+       ├── slip/
+    
+           ├── video1.avi
+    
+           ├── video2.avi
+    
+           └── ...
+     
+      └── wriggle/
+       
+          ├── video1.avi
+    
+          ├── video2.avi
+    
+          └── ...
+
+
+            
+    ├── validation/
+  
+       ├── slip/
+    
+           ├── video1.avi
+    
+           ├── video2.avi
+    
+           └── ...
+     
+      └── wriggle/
+       
+          ├── video1.avi
+    
+          ├── video2.avi
+    
+          └── ...
+    
+
 
 
 
