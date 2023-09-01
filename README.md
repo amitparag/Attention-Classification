@@ -81,3 +81,7 @@ Slip detection with Franka Emika and GelSight Sensors.
   1. Marker Tracking
 
   2. Sensors
+
+  3. Low Batch Size
+
+  4. Minor Convergence issues in the initial epochs
