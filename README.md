@@ -85,3 +85,5 @@ Slip detection with Franka Emika and GelSight Sensors.
   3. Low Batch Size
 
   4. Minor Convergence issues in the initial epochs
+
+  5. OpenCV issues
