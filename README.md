@@ -7,7 +7,7 @@ Slip detection with Franka Emika and GelSight Sensors.
 
 ## Training
 
-  
+  For training, the data folder needs to be arranged like so :
 
       root_dir/
       
