@@ -97,3 +97,5 @@ Video Vision Tranformers were initially proposed in this [paper](https://arxiv.o
   5. Minor Convergence issues in the initial epochs
 
   6. OpenCV issues
+
+### Acknowledgements
