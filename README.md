@@ -4,7 +4,7 @@
 ## Précis
 ![Screenshot from 2023-09-01 12-02-11](https://github.com/amitparag/Attention-Classification/assets/19486899/be3a25a3-36e6-43ac-a242-4a00f55a82d1)
 
-
+Video Vision Tranformers were initially proposed in this [paper](https://arxiv.org/abs/2103.15691). We use the the first variant - spatial transformer followed by a temporal one - in our experiments. 
 
 ## Requirements
 
