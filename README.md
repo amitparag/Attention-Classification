@@ -79,14 +79,21 @@ Video Vision Tranformers were initially proposed in this [paper](https://arxiv.o
 ## Model Architecture
 
 
-## Some Problems you may face
+## Certain problems you may face
 
   1. Marker Tracking
 
+      Marker tracking algorithms may fail to converge or compute absurd vector fields. We experimented with marker tracking but ended up not using them.
+       
+
   2. Sensors
 
-  3. Low Batch Size
+      The Gelsight sensors are susceptible to damage.
+    
+  
 
-  4. Minor Convergence issues in the initial epochs
+  4. Low Batch Size
 
-  5. OpenCV issues
+  5. Minor Convergence issues in the initial epochs
+
+  6. OpenCV issues
