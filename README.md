@@ -101,7 +101,8 @@ Video Vision Tranformers were initially proposed in this [paper](https://arxiv.o
     • mlp_dim            =  126
 
 
-Training a bigger model on 16 or 32 Gb RAM leads to the script getting automically killed. So, it will be better to train it on GPU/CPU clusters. 
+Training a bigger model on 16 or 32 Gb RAM leads to the script getting automically killed. 
+So, if you want to try it, make sure you have access to compute clusters and adapt the code for gpu. Should be fairly straightforward. 
 
 
 ## Certain problems you may face
