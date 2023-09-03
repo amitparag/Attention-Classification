@@ -107,21 +107,31 @@ So, if you want to try it, make sure you have access to compute clusters and ada
 
 ## Certain problems you may face
 
-  1. Marker Tracking
-
-      Marker tracking algorithms may fail to converge or compute absurd vector fields. We experimented with marker tracking but ended up not using them.
-       
-
-  2. Sensors
-
-      The Gelsight sensors are susceptible to damage.
+    1. Marker Tracking
+  
+        Marker tracking algorithms may fail to converge or compute absurd vector fields. We experimented with marker tracking but ended up not using them.
+         
+  
+    2. Sensors
+  
+        The Gelsight sensors are susceptible to damage.
+      
     
   
+    4. Low Batch Size
 
-  4. Low Batch Size
+        The training script uses a batch size of 4. While it is generally preferable to have a higher batch size restrictions of cpu still apply
+  
+    5. Minor Convergence issues in the initial epochs
 
-  5. Minor Convergence issues in the initial epochs
+        Sometimes, the network gets stuck in local minima. Either restart the experiment with different learning rate or let it run for a few more epochs.
+        For example, in one of the experiments, the network was trapped in a local minima - the validation accuracy score remained unchanged for 100 epochs for learning rate of 1e-3.
+        The usual irritating local minima stuff - change some parameter slightly. 
+        
+  
+    6. OpenCV issues
 
-  6. OpenCV issues
+        There a a few encoding issues with opencv something to do with how it compresses and encodes data. Use [PyAV](https://pypi.org/project/av/) and [Imgaug](https://github.com/aleju/imgaug)
+        for processing and augmenting the dataset.
 
 ### Acknowledgements
