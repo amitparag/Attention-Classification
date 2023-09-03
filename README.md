@@ -131,7 +131,7 @@ So, if you want to try it, make sure you have access to compute clusters and ada
   
     6. OpenCV issues
 
-        There a a few encoding issues with opencv something to do with how it compresses and encodes data. Use [PyAV](https://pypi.org/project/av/) and [Imgaug](https://github.com/aleju/imgaug)
-        for processing and augmenting the dataset.
+        There a a few encoding issues with opencv something to do with how it compresses and encodes data. Use [PyAV](https://pypi.org/project/av/), [Imgaug](https://github.com/aleju/imgaug)
+        and [ImageIO-ffmpeg](https://pypi.org/project/imageio-ffmpeg/) for processing and augmenting the dataset.
 
 ### Acknowledgements
