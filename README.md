@@ -177,7 +177,7 @@ So, if you want to try it, make sure you have access to compute clusters and ada
 
   https://github.com/amitparag/Attention-Classification/assets/19486899/df3ed124-8a7d-4620-bab5-38bbe121bc3f
 
-
+    Also note that the 3D printed grippers can develop cracks and break. We used a normal 3D printer and then eventually a more "fancy" one.
   
     4. Low Batch Size
 
