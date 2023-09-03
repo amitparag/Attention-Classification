@@ -163,7 +163,7 @@ So, if you want to try it, make sure you have access to compute clusters and ada
     2. Sensors
   
         The Gelsight sensors are susceptible to damage. After a few experiments, the gel pad on one the sensors started to leak gel while second one somehow got scrapped off.
-        We initially started with 2 sensors, but then discarded the data from one f the sensors.
+        We initially started with 2 sensors, but then discarded the data from one of the sensors.
 
 <div style="display: flex; justify-content: center;">
     <img src="assets/Screenshot from 2023-09-03 15-18-07.png" alt="Image 1" style="width: 200px; margin-right: 10px;">
