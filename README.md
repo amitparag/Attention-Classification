@@ -115,9 +115,10 @@ So, if you want to try it, make sure you have access to compute clusters and ada
   
         The Gelsight sensors are susceptible to damage. After a few experiments, the gel pad on one the sensors started to leak gel while second one somehow got scrapped off.
 
-
-![image](https://github.com/amitparag/Attention-Classification/assets/19486899/8d9a6aea-65c0-4063-bdf1-02ffcfba7651)
-![image](https://github.com/amitparag/Attention-Classification/assets/19486899/6621e511-3153-46ff-83cd-30ab055bf5c5)
+<div style="display: flex; justify-content: center;">
+    <img src="assets/Screenshot from 2023-09-03 15-18-07.png" alt="Image 1" style="margin-right: 10px;">
+    <img src="assets/Screenshot from 2023-09-03 15-17-53.png" alt="Image 2">
+</div>
 
       
 
