@@ -109,7 +109,7 @@ So, if you want to try it, make sure you have access to compute clusters and ada
 
     1. Marker Tracking
   
-        Marker tracking algorithms may fail to converge or compute absurd vector fields. We experimented with marker tracking but ended up not using them.
+        Marker tracking algorithms may fail to converge or ends up computing absurd vector fields. We experimented with marker tracking but ended up not using them.
          
   
     2. Sensors
