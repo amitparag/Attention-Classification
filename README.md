@@ -58,8 +58,26 @@ The resulting (slip) video (from one of the experiments) from the sensor attache
 
 https://github.com/amitparag/Attention-Classification/assets/19486899/9fb5e856-824f-4e60-9db5-2d167f1b0cc8
 
+After the data has been collected, we augment the data by adding 
 
-For data augmentation, see [1 - Transforming and Augmenting the dataset.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/1%20-%20Transforming%20and%20Augmenting%20the%20dataset.ipynb)
+            iaa.OneOf([
+            iaa.GaussianBlur((0, 3.0)),
+            iaa.AverageBlur(k=(2, 7)),
+            iaa.MedianBlur(k=(3, 11)),
+        ]),
+        # Strengthen or weaken the contrast in each image.
+        sometimes(
+            iaa.LinearContrast((0.75, 1.5))
+        ),
+        sometimes(
+            iaa.ElasticTransformation(alpha=(0.5, 3.5), sigma=0.25)
+
+
+For data augmentation, see [1 - Transforming and Augmenting the dataset.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/1%20-%20Transforming%20and%20Augmenting%20the%20dataset.ipynb).
+
+After this, we use [2 - Dataset.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/2%20-%20Dataset.ipynb) to create train, test, validation directories (See below)
+
+The third step is the training the model. Code is provided in [training.py](https://github.com/amitparag/Attention-Classification/blob/main/training.py) 
 
 
 ## Training
