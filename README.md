@@ -113,9 +113,16 @@ So, if you want to try it, make sure you have access to compute clusters and ada
   
     2. Sensors
   
-        The Gelsight sensors are susceptible to damage.
+        The Gelsight sensors are susceptible to damage. After a few experiments, the gel pad on one the sensors started to leak gel while second one somehow got scrapped off.
       
-    
+    ![image](https://github.com/amitparag/Attention-Classification/assets/19486899/4483a181-9a99-4651-a1bd-ba412c37afb2)
+    ![image](https://github.com/amitparag/Attention-Classification/assets/19486899/d3e48459-f026-4ffa-88ec-3eff6aed8190)
+
+    The resulting data is unusable
+
+    https://github.com/amitparag/Attention-Classification/assets/19486899/df3ed124-8a7d-4620-bab5-38bbe121bc3f
+
+
   
     4. Low Batch Size
 
