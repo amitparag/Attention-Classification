@@ -60,6 +60,8 @@ https://github.com/amitparag/Attention-Classification/assets/19486899/9fb5e856-8
 
 After the data has been collected, we augment the data by adding 
 
+            from imgaug import augmenters as iaa
+
             iaa.OneOf([
             iaa.GaussianBlur((0, 3.0)),
             iaa.AverageBlur(k=(2, 7)),
@@ -78,6 +80,8 @@ For data augmentation, see [1 - Transforming and Augmenting the dataset.ipynb](h
 After this, we use [2 - Dataset.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/2%20-%20Dataset.ipynb) to create train, test, validation directories (See below)
 
 The third step is the training the model. Code is provided in [training.py](https://github.com/amitparag/Attention-Classification/blob/main/training.py) 
+
+After that validation and plotting results.
 
 
 ## Training
