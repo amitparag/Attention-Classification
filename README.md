@@ -48,7 +48,10 @@ https://github.com/amitparag/Attention-Classification/assets/19486899/bfd973d2-9
 This motion is repeated for 30 objects. The resulting (slip) video (from one of the experiments) from the sensor attached to the gripper is shown below  
 
 
-https://github.com/amitparag/Attention-Classification/assets/19486899/1f1daac1-a8de-48a1-99ec-44c496aa6c13
+
+https://github.com/amitparag/Attention-Classification/assets/19486899/9fb5e856-824f-4e60-9db5-2d167f1b0cc8
+
+
 
 
 
