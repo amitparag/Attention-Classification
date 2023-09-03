@@ -24,15 +24,24 @@ We define "wriggle" as a sequence of motions that involve
 
 Two examples are shown below :
 
-https://github.com/amitparag/Attention-Classification/assets/19486899/b194ed84-4d4c-42f6-bfd9-33df2f14c093
+
+https://github.com/amitparag/Attention-Classification/assets/19486899/5bfce6da-073d-45e8-86b1-123f00ec70f9
 
 
-https://github.com/amitparag/Attention-Classification/assets/19486899/02444fa0-1a38-4509-9543-bbd524d1c5c0
+
+
+https://github.com/amitparag/Attention-Classification/assets/19486899/f70485a8-5e0e-4f24-bf60-bc692965dd3f
+
+
+
 
 The occurence of slip is usually characterized by the properties of object in question such  as its weight, elasticity, orientation of grip. 
 One example of slip is shown below.
 
-https://github.com/amitparag/Attention-Classification/assets/19486899/54d982fc-a740-4a30-95ba-91bb8960efaf
+
+
+https://github.com/amitparag/Attention-Classification/assets/19486899/bfd973d2-94ac-4395-aab3-194bfe0f313c
+
 
 
 
