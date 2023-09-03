@@ -52,7 +52,7 @@ This motion is repeated for 30 objects. The resulting (slip) video (from one of 
 https://github.com/amitparag/Attention-Classification/assets/19486899/9fb5e856-824f-4e60-9db5-2d167f1b0cc8
 
 
-
+For data augmentation, see 1 - Transforming and Augmenting the dataset.ipynb
 
 
 ## Training
