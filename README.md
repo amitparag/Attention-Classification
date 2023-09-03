@@ -12,7 +12,15 @@ We use the the first variant - spatial transformer followed by a temporal one - 
 
 The training dataset were collected by performing the wriggling motion.
 
-We define "wriggle" as a sequence of motions that involve lifting an object, rotationally shaking it followed by tangential shake, vertical shake and perpendicular shake. The object is then put back on the table.
+We define "wriggle" as a sequence of motions that involve 
+
+    lifting an object, 
+    
+    rotationally shaking it 
+    
+    followed by tangential shake, vertical shake and perpendicular shake. 
+    
+    The object is then put back on the table.
 
 Two examples are shown below :
 
