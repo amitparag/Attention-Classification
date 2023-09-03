@@ -10,12 +10,10 @@ __organization = 'Sintef Ocean AS'
 from __future__ import print_function
 
 import glob
-from itertools import chain
 import os
 import random
-import zipfile
 import shutil
-
+import time
 import av
 import imageio
 
@@ -27,7 +25,6 @@ import torch.optim as optim
 from torch.utils.data import DataLoader, Dataset
 from torchvision.io import read_video
 from torchvision.transforms import Compose, Resize, ToTensor
-from PIL import Image
 from sklearn.model_selection import train_test_split
 from torchvision import datasets, transforms
 from tqdm import tqdm
@@ -150,7 +147,7 @@ if __name__=='__main__':
     ####################################################################################################
 
     learning_rate   = 3e-4
-    num_epochs      = 1000
+    num_epochs      = 1
     # Create model, loss function, and optimizer
     criterion       = nn.CrossEntropyLoss()
     # For classification tasks
@@ -165,6 +162,8 @@ if __name__=='__main__':
     train_losses = []  # List to store training losses
     test_losses = []    # List to store validation losses
     
+    start_time = time.time()
+
     for epoch in range(num_epochs):
 
         model.train()  # Set model to training mode
@@ -204,16 +203,7 @@ if __name__=='__main__':
     
 
         
-        # Save checkpoint every checkpoint_interval epochs
-        if (epoch + 1) % checkpoint_interval == 0:
-            checkpoint_path = os.path.join(checkpoint_dir, f'checkpoint_epoch{epoch+1}.pt')
-            torch.save({
-                'epoch': epoch,
-                'model_state_dict': model.state_dict(),
-                'optimizer_state_dict': optimizer.state_dict(),
-                'loss': running_loss / len(train_loader)
-            }, checkpoint_path)
-            print(f"Checkpoint saved at epoch {epoch+1}")
+
 
         # Validation
         model.eval()  # Set model to evaluation mode
@@ -245,11 +235,27 @@ if __name__=='__main__':
         print(f"Epoch [{epoch+1}/{num_epochs}] - Train Loss: {avg_train_loss:.4f} - Test Loss: {avg_test_loss:.8f} - Test Acc: {100. * correct / total:.8f}%")
         
 
-    
+       # Save checkpoint every checkpoint_interval epochs
+        if (epoch + 1) % checkpoint_interval == 0:
+            checkpoint_path = os.path.join(checkpoint_dir, f'checkpoint_epoch{epoch+1}.pt')
+            torch.save({
+                'epoch': epoch,
+                'model_state_dict': model.state_dict(),
+                'optimizer_state_dict': optimizer.state_dict(),
+                'train_loss': avg_train_loss,
+                'test_loss': avg_test_loss,
+                'test_accuracy': 100. * correct / total
+            }, checkpoint_path)
+            print(f"Checkpoint saved at epoch {epoch+1}")
+
+
+    end_time = time.time()
+    total_training_time = end_time - start_time
     # Save the final list of training and validation losses
     losses_dict = {
         'train_losses': train_losses,
-        'test_losses': test_losses
+        'test_losses': test_losses,
+        'training_time':total_training_time
     }
     
     losses_path = os.path.join(checkpoint_dir, 'losses.pt')
