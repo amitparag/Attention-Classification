@@ -80,25 +80,28 @@ Video Vision Tranformers were initially proposed in this [paper](https://arxiv.o
 
 ## Model Architecture
 
-  • image_size       = (240,320), # image size
-  
-  • frames           = 450, # number of frames
-  
-  • image_patch_size = (80,80), # image patch size
-  
-  • frame_patch_size = 45, # frame patch size
-  
-  • num_classes     = 2,
-  
-  • dim             = 64,
-  
-  • spatial_depth   = 3, # depth of the spatial transformer
-  
-  • temporal_depth  = 3, # depth of the temporal transformer
-  
-  • heads           = 4,
-  
-  • mlp_dim         = 126
+    • image_size         =  (240,320), # image size
+    
+    • frames             =   450, # number of frames
+    
+    • image_patch_size   =   (80,80), # image patch size
+    
+    • frame_patch_size   =   45, # frame patch size
+    
+    • num_classes        =   2,
+    
+    • dim                =   64,
+    
+    • spatial_depth      =   3, # depth of the spatial transformer
+    
+    • temporal_depth     =   3, # depth of the temporal transformer
+    
+    • heads              =   4,
+    
+    • mlp_dim            =  126
+
+
+Training a bigger model on 16 or 32 Gb RAM leads to the script getting automically killed. So, it will be better to train it on GPU/CPU clusters. 
 
 
 ## Certain problems you may face
