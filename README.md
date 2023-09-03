@@ -79,7 +79,7 @@ For data augmentation, see [1 - Transforming and Augmenting the dataset.ipynb](h
 
 After this, we use [2 - Dataset.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/2%20-%20Dataset.ipynb) to create train, test, validation directories (See below)
 
-The third step is the training the model. Code is provided in [training.py](https://github.com/amitparag/Attention-Classification/blob/main/training.py) 
+The third step is training the model. Code is provided in [training.py](https://github.com/amitparag/Attention-Classification/blob/main/training.py) 
 
 After that validation and plotting results.
 
