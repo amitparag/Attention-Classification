@@ -204,7 +204,7 @@ So, if you want to try it, make sure you have access to compute clusters and ada
 
 See [requirements.txt](https://github.com/amitparag/Attention-Classification/blob/main/requirements.txt)
     
-    Numpy, preferably 1.20.0. Higher versions have changed numpy.bool to bool. Might lead to clashes
+Numpy, preferably 1.20.0. Higher versions have changed numpy.bool to bool. Might lead to clashes
 
     
 ### Acknowledgements
