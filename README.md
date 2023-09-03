@@ -9,6 +9,18 @@ The aim of the experiments is to learn the difference between slip and wriggle t
 Video Vision Tranformers were initially proposed in this [paper](https://arxiv.org/abs/2103.15691). We use the the first variant - spatial transformer followed by a temporal one - in our experiments. 
 
 
+https://github.com/amitparag/Attention-Classification/assets/19486899/b194ed84-4d4c-42f6-bfd9-33df2f14c093
+
+
+https://github.com/amitparag/Attention-Classification/assets/19486899/02444fa0-1a38-4509-9543-bbd524d1c5c0
+
+
+
+https://github.com/amitparag/Attention-Classification/assets/19486899/54d982fc-a740-4a30-95ba-91bb8960efaf
+
+
+
+
 
 ## Training
 
