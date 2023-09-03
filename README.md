@@ -6,15 +6,23 @@ The aim of the experiments is to learn the difference between slip and wriggle t
 
 ![Screenshot from 2023-09-01 12-02-11](https://github.com/amitparag/Attention-Classification/assets/19486899/be3a25a3-36e6-43ac-a242-4a00f55a82d1)
 
-Video Vision Tranformers were initially proposed in this [paper](https://arxiv.org/abs/2103.15691). We use the the first variant - spatial transformer followed by a temporal one - in our experiments. 
+Video Vision Tranformers were initially proposed in this [paper](https://arxiv.org/abs/2103.15691). 
 
+We use the the first variant - spatial transformer followed by a temporal one - in our experiments. 
+
+The training dataset were collected by performing the wriggling motion.
+
+We define "wriggle" as a sequence of motions that involve lifting an object, rotationally shaking it followed by tangential shake, vertical shake and perpendicular shake. The object is then put back on the table.
+
+Two examples are shown below :
 
 https://github.com/amitparag/Attention-Classification/assets/19486899/b194ed84-4d4c-42f6-bfd9-33df2f14c093
 
 
 https://github.com/amitparag/Attention-Classification/assets/19486899/02444fa0-1a38-4509-9543-bbd524d1c5c0
 
-
+The occurence of slip is usually characterized by the properties of object in question such  as its weight, elasticity, orientation of grip. 
+One example of slip is shown below.
 
 https://github.com/amitparag/Attention-Classification/assets/19486899/54d982fc-a740-4a30-95ba-91bb8960efaf
 
