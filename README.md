@@ -8,6 +8,17 @@ The aim of the experiments is to learn the difference between slip and wriggle t
 
 Video Vision Tranformers were initially proposed in this [paper](https://arxiv.org/abs/2103.15691). We use the the first variant - spatial transformer followed by a temporal one - in our experiments. 
 
+<div style="display: flex; justify-content: center;">
+    <video width="320" height="240" controls>
+        <source src="assets/IMG_0071.mov" type="video/quicktime">
+        Your browser does not support the video tag.
+    </video>
+    <video width="320" height="240" controls>
+        <source src="assets/IMG_0077.mov" type="video/quicktime">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
 
 ## Training
 
