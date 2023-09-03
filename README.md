@@ -8,7 +8,6 @@ The aim of the experiments is to learn the difference between slip and wriggle t
 
 Video Vision Tranformers were initially proposed in this [paper](https://arxiv.org/abs/2103.15691). We use the the first variant - spatial transformer followed by a temporal one - in our experiments. 
 
-## Requirements
 
 ## Training
 
@@ -134,4 +133,12 @@ So, if you want to try it, make sure you have access to compute clusters and ada
         There a a few encoding issues with opencv something to do with how it compresses and encodes data. Use [PyAV](https://pypi.org/project/av/), [Imgaug](https://github.com/aleju/imgaug)
         and [ImageIO-ffmpeg](https://pypi.org/project/imageio-ffmpeg/) for processing and augmenting the dataset.
 
+
+## Requirements
+
+    See requirements.txt
+    
+    Numpy, preferably 1.20.0. Higher versions have changed numpy.bool to bool. Might lead to clashes
+
+    
 ### Acknowledgements
