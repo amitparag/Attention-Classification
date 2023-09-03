@@ -2,6 +2,8 @@
 *Slip detection* with [Franka Emika](https://www.franka.de/) and [GelSight Sensors](https://www.gelsight.com/gelsightmini/) .
 
 ## Précis
+The aim of the experiments is to learn the difference between slip and wriggle through videos by training a Video-Vision Transformer model.
+
 ![Screenshot from 2023-09-01 12-02-11](https://github.com/amitparag/Attention-Classification/assets/19486899/be3a25a3-36e6-43ac-a242-4a00f55a82d1)
 
 Video Vision Tranformers were initially proposed in this [paper](https://arxiv.org/abs/2103.15691). We use the the first variant - spatial transformer followed by a temporal one - in our experiments. 
@@ -77,6 +79,26 @@ Video Vision Tranformers were initially proposed in this [paper](https://arxiv.o
 
 
 ## Model Architecture
+
+  • image_size       = (240,320), # image size
+  
+  • frames           = 450, # number of frames
+  
+  • image_patch_size = (80,80), # image patch size
+  
+  • frame_patch_size = 45, # frame patch size
+  
+  • num_classes     = 2,
+  
+  • dim             = 64,
+  
+  • spatial_depth   = 3, # depth of the spatial transformer
+  
+  • temporal_depth  = 3, # depth of the temporal transformer
+  
+  • heads           = 4,
+  
+  • mlp_dim         = 126
 
 
 ## Certain problems you may face
