@@ -1,8 +1,9 @@
 ## Attention-Classification
 *Slip detection* with [Franka Emika](https://www.franka.de/) and [GelSight Sensors](https://www.gelsight.com/gelsightmini/) .
 
-\textbf{Author} - Amit Parag
-\textbf{Instructor} - Ekrem Misimi
+**Author** - Amit Parag
+
+**Instructor** - Ekrem Misimi
 
 ## Précis
 The aim of the experiments is to learn the difference between slip and wriggle through videos by training a Video-Vision Transformer model.
