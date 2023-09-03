@@ -178,7 +178,7 @@ So, if you want to try it, make sure you have access to compute clusters and ada
   
     4. Low Batch Size
 
-        The training script uses a batch size of 4. While it is generally preferable to have a higher batch size restrictions of cpu still apply
+        The training script uses a batch size of 4. While it is generally preferable to have a higher batch size, restrictions due to compute capabilities still apply
   
     5. Minor Convergence issues in the initial epochs
 
