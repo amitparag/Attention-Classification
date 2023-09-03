@@ -116,8 +116,8 @@ So, if you want to try it, make sure you have access to compute clusters and ada
         The Gelsight sensors are susceptible to damage. After a few experiments, the gel pad on one the sensors started to leak gel while second one somehow got scrapped off.
 
 <div style="display: flex; justify-content: center;">
-    <img src="assets/Screenshot from 2023-09-03 15-18-07.png" alt="Image 1" style="margin-right: 10px;">
-    <img src="assets/Screenshot from 2023-09-03 15-17-53.png" alt="Image 2">
+    <img src="assets/Screenshot from 2023-09-03 15-18-07.png" alt="Image 1" style="width: 200px; margin-right: 10px;">
+    <img src="assets/Screenshot from 2023-09-03 15-17-53.png" alt="Image 2" style="width: 200px;">
 </div>
 
       
