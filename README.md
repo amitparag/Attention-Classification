@@ -179,6 +179,7 @@ After that validation and plotting results.
 
 Training a bigger model on 16 or 32 Gb RAM leads to the script getting automically killed. 
 So, if you want to try it, make sure you have access to compute clusters and adapt the code for gpu. Should be fairly straightforward. 
+This architecture took 17.35 hours to train for 250 epochs.
 
 
 ## Certain problems you may face
