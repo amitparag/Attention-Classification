@@ -26,6 +26,8 @@ We define "wriggle" as a sequence of motions that involve
     
     The object is then put back on the table.
 
+The objects used for experiments are listed in [object_info.txt](https://github.com/amitparag/Attention-Classification/blob/main/objects_info.txt)
+
 Two examples are shown below :
 
 
