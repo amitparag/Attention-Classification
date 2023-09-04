@@ -204,8 +204,8 @@ This architecture took 17.35 hours to train for 250 epochs.
         We initially started with 2 sensors, but then discarded the data from one of the sensors.
 
 <div style="display: flex; justify-content: center;">
-    <img src="assets/Screenshot from 2023-09-03 15-18-07.png" alt="Image 1" style="width: 200px; margin-right: 10px;">
-    <img src="assets/Screenshot from 2023-09-03 15-17-53.png" alt="Image 2" style="width: 200px;">
+    <img src="assets/Screenshot from 2023-09-03 15-18-07.png" alt="Image 1" style="width: 400px; margin-right: 10px;">
+    <img src="assets/Screenshot from 2023-09-03 15-17-53.png" alt="Image 2" style="width: 400px;">
 </div>
 
       
