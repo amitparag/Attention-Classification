@@ -85,6 +85,15 @@ The third step is training the model. Code is provided in [training.py](https://
 
 After that validation and plotting results.
 
+See [3 - Validation.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/3%20-%20Validation.ipynb) and [4 - Plot results.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/4%20-%20Plot%20results.ipynb)
+
+The validation accuracy is 
+
+
+<div style="display: flex; justify-content: center;">
+    <img src="assets/validation_accuracy.jpg" alt="Image 1" style="width: 200px; margin-right: 10px;">
+</div>
+
 
 ## Training
 
