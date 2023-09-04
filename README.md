@@ -31,6 +31,8 @@ The objects used for experiments are listed in [object_info.txt](https://github.
 Two examples are shown below :
 
 
+<img src="https://github.com/amitparag/Attention-Classification/assets/19486899/5bfce6da-073d-45e8-86b1-123f00ec70f9" width="200">
+
 https://github.com/amitparag/Attention-Classification/assets/19486899/5bfce6da-073d-45e8-86b1-123f00ec70f9
 
 
