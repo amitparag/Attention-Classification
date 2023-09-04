@@ -216,7 +216,7 @@ This architecture took 17.35 hours to train for 250 epochs.
 
   https://github.com/amitparag/Attention-Classification/assets/19486899/df3ed124-8a7d-4620-bab5-38bbe121bc3f
 
-    Also note that the regular 3D printed grippers can develop cracks and break. We initially used a normal 3D printer and then eventually a more "fancy" one.
+    Also note that the regular 3D printed grippers can develop cracks and break. We initially used a normal 3D printer and then eventually a more "fancy" one, for instance, in the video "Coil of Wires", different grippers are used.
   
     4. Low Batch Size
 
