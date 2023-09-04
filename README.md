@@ -63,8 +63,10 @@ https://github.com/amitparag/Attention-Classification/assets/19486899/9fb5e856-8
 
 After the data has been collected, we augment the data by adding 
 
-            from imgaug import augmenters as iaa
+        from imgaug import augmenters as iaa
+        sometimes = lambda aug: iaa.Sometimes(0.5, aug) # with probability 0.5
 
+            .......
             iaa.OneOf([
             iaa.GaussianBlur((0, 3.0)),
             iaa.AverageBlur(k=(2, 7)),
@@ -76,7 +78,7 @@ After the data has been collected, we augment the data by adding
         ),
         sometimes(
             iaa.ElasticTransformation(alpha=(0.5, 3.5), sigma=0.25)
-
+            .......
 
 For data augmentation, see [1 - Transforming and Augmenting the dataset.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/1%20-%20Transforming%20and%20Augmenting%20the%20dataset.ipynb).
 
