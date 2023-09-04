@@ -249,4 +249,3 @@ and [Imageio-ffmpeg](https://pypi.org/project/imageio-ffmpeg/) for processing an
     
 ### Acknowledgements
 
-We thank [Prof Edward Adelson](https://bcs.mit.edu/directory/edward-adelson) for useful discussions and providing us with newer and more sensitive Gelsight Sensors. 
