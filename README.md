@@ -206,7 +206,10 @@ This architecture took 17.35 hours to train for 250 epochs.
     2. Sensors
   
         The Gelsight sensors are susceptible to damage. After a few experiments, the gel pad on one the sensors started to leak gel while second one somehow got scrapped off.
-        We initially started with 2 sensors, but then discarded the data from one of the sensors.
+        We initially started with 2 sensors, but then discarded the data from one of the sensors. 
+        It should also be notes that the usb-c cabel connected to the GelSight sensors gets disconnected a lot in the middle of experiments. So you will have to redo the same experiment multiple times - frustrating but c'est la vie.
+        The pins of the mini sensor is a bit dodgy.
+        
 
 <div style="display: flex; justify-content: center;">
     <img src="assets/Screenshot from 2023-09-03 15-18-07.png" alt="Image 1" style="width: 400px; margin-right: 10px;">
