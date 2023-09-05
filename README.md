@@ -207,8 +207,7 @@ This architecture took 17.35 hours to train for 250 epochs.
   
         The Gelsight sensors are susceptible to damage. After a few experiments, the gel pad on one the sensors started to leak gel while second one somehow got scrapped off.
         We initially started with 2 sensors, but then discarded the data from one of the sensors. 
-        It should also be notes that the usb-c cabel connected to the GelSight sensors gets disconnected a lot in the middle of experiments. So you will have to redo the same experiment multiple times - frustrating but c'est la vie.
-        The pins of the mini sensor is a bit dodgy.
+        
         
 
 <div style="display: flex; justify-content: center;">
@@ -224,7 +223,10 @@ This architecture took 17.35 hours to train for 250 epochs.
   https://github.com/amitparag/Attention-Classification/assets/19486899/df3ed124-8a7d-4620-bab5-38bbe121bc3f
 
     Also note that the regular 3D printed grippers can develop cracks and break. We initially used a normal 3D printer and then eventually a more "fancy" one, for instance, in the video "Coil of Wires", different grippers are used.
-  
+    It should also be notes that the usb-c cabel connected to the GelSight sensors gets disconnected a lot in the middle of experiments. So you will have to redo the same experiment multiple times - frustrating but c'est la vie.
+    The pins of the mini sensor is a bit dodgy.
+    
+    
     4. Low Batch Size
 
         The training script uses a batch size of 4. While it is generally preferable to have a higher batch size, restrictions due to compute capabilities still apply.
