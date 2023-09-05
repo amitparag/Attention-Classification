@@ -31,6 +31,7 @@ The objects used for experiments are listed in [object_info.txt](https://github.
 Two examples are shown below :
 
 
+
 https://github.com/amitparag/Attention-Classification/assets/19486899/5bfce6da-073d-45e8-86b1-123f00ec70f9
 
 
@@ -62,8 +63,10 @@ https://github.com/amitparag/Attention-Classification/assets/19486899/9fb5e856-8
 
 After the data has been collected, we augment the data by adding 
 
-            from imgaug import augmenters as iaa
+        from imgaug import augmenters as iaa
+        sometimes = lambda aug: iaa.Sometimes(0.5, aug) # with probability 0.5
 
+            .......
             iaa.OneOf([
             iaa.GaussianBlur((0, 3.0)),
             iaa.AverageBlur(k=(2, 7)),
@@ -75,7 +78,7 @@ After the data has been collected, we augment the data by adding
         ),
         sometimes(
             iaa.ElasticTransformation(alpha=(0.5, 3.5), sigma=0.25)
-
+            .......
 
 For data augmentation, see [1 - Transforming and Augmenting the dataset.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/1%20-%20Transforming%20and%20Augmenting%20the%20dataset.ipynb).
 
@@ -84,6 +87,15 @@ After this, we use [2 - Dataset.ipynb](https://github.com/amitparag/Attention-Cl
 The third step is training the model. Code is provided in [training.py](https://github.com/amitparag/Attention-Classification/blob/main/training.py) 
 
 After that validation and plotting results.
+
+See [3 - Validation.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/3%20-%20Validation.ipynb) and [4 - Plot results.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/4%20-%20Plot%20results.ipynb)
+
+The validation accuracy is 
+
+
+<div style="display: flex; justify-content: center;">
+    <img src="assets/validation_accuracy.jpg" alt="Image 1" style="width: 800px; margin-right: 10px;">
+</div>
 
 
 ## Training
@@ -195,8 +207,8 @@ This architecture took 17.35 hours to train for 250 epochs.
         We initially started with 2 sensors, but then discarded the data from one of the sensors.
 
 <div style="display: flex; justify-content: center;">
-    <img src="assets/Screenshot from 2023-09-03 15-18-07.png" alt="Image 1" style="width: 200px; margin-right: 10px;">
-    <img src="assets/Screenshot from 2023-09-03 15-17-53.png" alt="Image 2" style="width: 200px;">
+    <img src="assets/Screenshot from 2023-09-03 15-18-07.png" alt="Image 1" style="width: 400px; margin-right: 10px;">
+    <img src="assets/Screenshot from 2023-09-03 15-17-53.png" alt="Image 2" style="width: 400px;">
 </div>
 
       
@@ -206,7 +218,7 @@ This architecture took 17.35 hours to train for 250 epochs.
 
   https://github.com/amitparag/Attention-Classification/assets/19486899/df3ed124-8a7d-4620-bab5-38bbe121bc3f
 
-    Also note that the regular 3D printed grippers can develop cracks and break. We initially used a normal 3D printer and then eventually a more "fancy" one.
+    Also note that the regular 3D printed grippers can develop cracks and break. We initially used a normal 3D printer and then eventually a more "fancy" one, for instance, in the video "Coil of Wires", different grippers are used.
   
     4. Low Batch Size
 
@@ -221,8 +233,7 @@ This architecture took 17.35 hours to train for 250 epochs.
   
     6. OpenCV issues
 
-        There a a few encoding issues with opencv something to do with how it compresses and encodes data. Use ![PyAV](https://pypi.org/project/av/), ![Imgaug](https://github.com/aleju/imgaug)
-        and ![ImageIO-ffmpeg](https://pypi.org/project/imageio-ffmpeg/) for processing and augmenting the dataset.
+        There a a few encoding issues with opencv something to do with how it compresses and encodes data.
 
 
 ## Requirements
@@ -238,4 +249,3 @@ and [Imageio-ffmpeg](https://pypi.org/project/imageio-ffmpeg/) for processing an
     
 ### Acknowledgements
 
-We thank [Prof Edward Adelson](https://bcs.mit.edu/directory/edward-adelson) for useful discussions and providing us with newer and more sensitive Gelsight Sensors. 
