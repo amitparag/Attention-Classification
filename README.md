@@ -1,11 +1,11 @@
-## Attention-Classification
+### Attention-Classification
 *Slip detection* with [Franka Emika](https://www.franka.de/) and [GelSight Sensors](https://www.gelsight.com/gelsightmini/) .
 
 **Author** - [Amit Parag](https://scholar.google.com/citations?user=wsRIfL4AAAAJ&hl=en)
 
 **Instructor** - [Ekrem Misimi](https://www.sintef.no/en/all-employees/employee/ekrem.misimi/)
 
-## Précis
+### Précis
 The aim of the experiments is to learn the difference between slip and wriggle through videos by training a Video-Vision Transformer model.
 
 ![Screenshot from 2023-09-01 12-02-11](https://github.com/amitparag/Attention-Classification/assets/19486899/be3a25a3-36e6-43ac-a242-4a00f55a82d1)
@@ -98,7 +98,7 @@ The validation accuracy is
 </div>
 
 
-## Training
+### Training
 
   For training, the data folder needs to be arranged like so -
 
@@ -166,7 +166,7 @@ The validation accuracy is
 
 
 
-## Model Architecture
+### Model Architecture
 
     • image_size         =  (240,320), # image size
     
@@ -194,7 +194,9 @@ So, if you want to try it, make sure you have access to compute clusters and ada
 This architecture took 17.35 hours to train for 250 epochs.
 
 
-## Certain problems you may face
+### Certain problems you may face
+
+    1: Installing real time kernel. See requirements below.
 
     1. Marker Tracking
   
@@ -236,7 +238,7 @@ This architecture took 17.35 hours to train for 250 epochs.
         There a a few encoding issues with opencv something to do with how it compresses and encodes data.
 
 
-## Requirements
+### Requirements
 
 See [requirements.txt](https://github.com/amitparag/Attention-Classification/blob/main/requirements.txt)
     
@@ -247,5 +249,5 @@ and [Imageio-ffmpeg](https://pypi.org/project/imageio-ffmpeg/) for processing an
 
 See [notes](https://github.com/amitparag/Attention-Classification/tree/main/notes) for instructions on installing real time kernel and libfranka. 
     
-### Acknowledgements
+#### Acknowledgements
 
