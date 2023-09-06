@@ -94,7 +94,7 @@ The validation accuracy is
 
 
 <div style="display: flex; justify-content: center;">
-    <img src="assets/validation_accuracy.jpg" alt="Image 1" style="width: 800px; margin-right: 10px;">
+    <img src="assets/accuracy.jpg" alt="Image 1" style="width: 800px; margin-right: 10px;">
 </div>
 
 
