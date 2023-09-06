@@ -111,7 +111,7 @@ data_transform = Compose([
 if __name__=='__main__':
 
 
-    root_dir    = './dataset'
+    root_dir    = './dataset/learning'
     train_dir   = os.path.join(root_dir, 'train')
     val_dir     = os.path.join(root_dir, 'validation')
     test_dir    = os.path.join(root_dir, 'test')
@@ -147,7 +147,7 @@ if __name__=='__main__':
     ####################################################################################################
 
     learning_rate   = 3e-4
-    num_epochs      = 1
+    num_epochs      = 250
     # Create model, loss function, and optimizer
     criterion       = nn.CrossEntropyLoss()
     # For classification tasks
@@ -236,7 +236,7 @@ if __name__=='__main__':
         
 
        # Save checkpoint every checkpoint_interval epochs
-        if (epoch + 1) % checkpoint_interval == 0:
+        if epoch -- 0 or (epoch + 1) % checkpoint_interval == 0:
             checkpoint_path = os.path.join(checkpoint_dir, f'checkpoint_epoch{epoch+1}.pt')
             torch.save({
                 'epoch': epoch,
