@@ -47,7 +47,7 @@ The occurence of slip is usually characterized by the properties of object in qu
 One example of slip is shown below.
 
 
-
+https://user-images.githubusercontent.com/19486899/265270077-bfd973d2-94ac-4395-aab3-194bfe0f313c.mp4
 
 
 
