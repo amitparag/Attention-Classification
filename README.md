@@ -46,7 +46,6 @@ The occurence of slip is usually characterized by the properties of object in qu
 
 One example of slip is shown below.
 
-https://github.com/amitparag/Attention-Classification/blob/main/assets/IMG_0083.mov
 
 
 
@@ -59,7 +58,9 @@ https://github.com/amitparag/Attention-Classification/blob/main/assets/IMG_0083.
 This motion is repeated for 30 objects. 
 
 
-The resulting (slip) video (from one of the experiments) from the sensor attached to the gripper is shown below. T
+The resulting (slip) video (from one of the experiments) from the sensor attached to the gripper is shown below.
+
+
 https://github.com/amitparag/Attention-Classification/assets/19486899/ffdab1a0-f602-4898-9168-f3077726b9d3
 
 
