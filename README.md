@@ -46,16 +46,11 @@ The occurence of slip is usually characterized by the properties of object in qu
 
 One example of slip is shown below.
 
-
-
-https://github.com/amitparag/Attention-Classification/assets/19486899/ffdab1a0-f602-4898-9168-f3077726b9d3
-
-
-An example of wriggle is
+https://github.com/amitparag/Attention-Classification/blob/main/assets/IMG_0083.mov
 
 
 
-https://github.com/amitparag/Attention-Classification/assets/19486899/11a95897-6bb7-4f0d-ac93-71ddb5483f3f
+
 
 
 
@@ -64,11 +59,18 @@ https://github.com/amitparag/Attention-Classification/assets/19486899/11a95897-6
 This motion is repeated for 30 objects. 
 
 
-The resulting (slip) video (from one of the experiments) from the sensor attached to the gripper is shown below. This is the dataset used for training.  
-
+The resulting (slip) video (from one of the experiments) from the sensor attached to the gripper is shown below. T
+https://github.com/amitparag/Attention-Classification/assets/19486899/ffdab1a0-f602-4898-9168-f3077726b9d3
 
 
 https://github.com/amitparag/Attention-Classification/assets/19486899/9fb5e856-824f-4e60-9db5-2d167f1b0cc8
+
+An example of wriggle is
+
+
+
+https://github.com/amitparag/Attention-Classification/assets/19486899/11a95897-6bb7-4f0d-ac93-71ddb5483f3f
+
 
 After the data has been collected, we augment the data by adding 
 
