@@ -98,7 +98,8 @@ The validation accuracy is 96.20 %.
     <img src="assets/accuracy.jpg" alt="Image 1" style="width: 800px; margin-right: 10px;">
 </div>
 
-Furthermore, validation was carried out on data from 5 completely unseen objects leading to to 72 videos. The validation accuracy is 87.50 %.
+Furthermore, validation was carried out on data from 5 completely unseen objects leading to to 72 videos. The validation accuracy is 87.50 %. See [5.5 - Validation on unseen data.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/5.5%20-%20Validation%20on%20unseen%20data.ipynb)
+
 
 ### Training
 
