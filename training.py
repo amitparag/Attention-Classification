@@ -30,7 +30,6 @@ from torchvision import datasets, transforms
 from tqdm import tqdm
 
 from vit_pytorch.vivit import ViT
-torch.device('cpu')
 
 
 seed = 42
@@ -111,6 +110,13 @@ data_transform = Compose([
 if __name__=='__main__':
 
 
+
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    print("Using device:", device)
+
+    # ... (previous code)
+
+
     root_dir    = './dataset/learning'
     train_dir   = os.path.join(root_dir, 'train')
     val_dir     = os.path.join(root_dir, 'validation')
@@ -121,10 +127,10 @@ if __name__=='__main__':
     val_dataset     = VideoDataset(val_dir, transform=data_transform)
     test_dataset    = VideoDataset(test_dir, transform=data_transform)
 
-    batch_size      = 4
+    batch_size      = 16
 
-    train_loader  = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, num_workers=0)
-    test_loader   = DataLoader(test_dataset, batch_size=2, shuffle=True, num_workers=0)
+    train_loader  = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, num_workers=4)
+    test_loader   = DataLoader(test_dataset, batch_size=4, shuffle=True, num_workers=4)
 
     ####################################################################################################3
 
@@ -135,10 +141,10 @@ if __name__=='__main__':
         frame_patch_size = 45,           # frame patch size
         num_classes = 2,
         dim = 64,
-        spatial_depth = 3,               # depth of the spatial transformer
-        temporal_depth = 3,              # depth of the temporal transformer
+        spatial_depth = 4,               # depth of the spatial transformer
+        temporal_depth = 4,              # depth of the temporal transformer
         heads = 4,
-        mlp_dim = 126
+        mlp_dim = 128
     )
 
 
@@ -147,12 +153,17 @@ if __name__=='__main__':
     ####################################################################################################
 
     learning_rate   = 3e-4
-    num_epochs      = 250
+    num_epochs      = 1000
     # Create model, loss function, and optimizer
     criterion       = nn.CrossEntropyLoss()
     # For classification tasks
     optimizer       = optim.Adam(model.parameters(), lr=learning_rate)
 
+
+
+    # Move model and loss function to GPU
+    model.to(device)
+    criterion.to(device)
 
     checkpoint_dir  = './checkpoints'
     os.makedirs(checkpoint_dir, exist_ok=True)
@@ -175,6 +186,10 @@ if __name__=='__main__':
         
         for videos, labels in train_loader_with_progress:
             
+
+            videos = videos.to(device)  # Move input data to GPU
+            labels = labels.to(device)
+
             # Forward pass
             optimizer.zero_grad()  # Zero the gradients
 
@@ -215,6 +230,8 @@ if __name__=='__main__':
             test_loader_with_progress = tqdm(test_loader, desc=f'Epoch [{epoch+1}/{num_epochs}] (Test)')
             
             for videos, labels in test_loader_with_progress:
+                videos = videos.to(device)  # Move input data to GPU
+                labels = labels.to(device)
                 outputs = model(videos)
                 loss = criterion(outputs, labels)
                 test_loss += loss.item()
@@ -236,7 +253,7 @@ if __name__=='__main__':
         
 
        # Save checkpoint every checkpoint_interval epochs
-        if epoch -- 0 or (epoch + 1) % checkpoint_interval == 0:
+        if epoch == 0 or (epoch + 1) % checkpoint_interval == 0:
             checkpoint_path = os.path.join(checkpoint_dir, f'checkpoint_epoch{epoch+1}.pt')
             torch.save({
                 'epoch': epoch,
