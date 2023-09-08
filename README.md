@@ -80,7 +80,8 @@ After the data has been collected, we augment the data by adding
             iaa.ElasticTransformation(alpha=(0.5, 3.5), sigma=0.25)
             .......
 
-For data augmentation, see [1 - Transforming and Augmenting the dataset.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/1%20-%20Transforming%20and%20Augmenting%20the%20dataset.ipynb).
+For data augmentation, see [1 - Transforming and Augmenting the dataset.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/1%20-%20Transforming%20and%20Augmenting%20the%20dataset.ipynb). 
+Data from 25 objects were kept aside for training. After augmentation, the dataset contained 124 slip cases and 408 wriggle cases.
 
 After this, we use [2 - Dataset.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/2%20-%20Dataset.ipynb) to create train, test, validation directories (See below)
 
@@ -97,6 +98,7 @@ The validation accuracy is
     <img src="assets/accuracy.jpg" alt="Image 1" style="width: 800px; margin-right: 10px;">
 </div>
 
+Furthermore, validation was carried out on data from 5 completely unseen objects leading to to 72 videos. The validation accuracy is 87.50%  
 
 ### Training
 
@@ -186,10 +188,10 @@ The validation accuracy is
     
     • heads              =   4,
     
-    • mlp_dim            =  126
+    • mlp_dim            =  128
 
 
-Training a bigger model on 16 or 32 Gb RAM leads to the script getting automically killed. 
+Training a bigger model on 16 or 32 Gb RAM leads to the script getting automatically killed. 
 So, if you want to try it, make sure you have access to compute clusters and adapt the code for gpu. Should be fairly straightforward. 
 This architecture took 17.35 hours to train for 250 epochs.
 
