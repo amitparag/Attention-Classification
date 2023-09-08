@@ -73,7 +73,7 @@ An example of wriggle is
 https://github.com/amitparag/Attention-Classification/assets/19486899/11a95897-6bb7-4f0d-ac93-71ddb5483f3f
 
 
-After the data has been collected, we augment the data by adding 
+After the data has been collected, we augment the data by adding transforming the collected data
 
         from imgaug import augmenters as iaa
         sometimes = lambda aug: iaa.Sometimes(0.5, aug) # with probability 0.5
@@ -92,8 +92,18 @@ After the data has been collected, we augment the data by adding
             iaa.ElasticTransformation(alpha=(0.5, 3.5), sigma=0.25)
             .......
 
-For data augmentation, see [1 - Transforming and Augmenting the dataset.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/1%20-%20Transforming%20and%20Augmenting%20the%20dataset.ipynb). 
-Data from 25 objects were kept aside for training. After augmentation, the dataset contained 124 slip cases and 408 wriggle cases.
+For data transformation, see [1 - Transforming and Augmenting the dataset.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/1%20-%20Transforming%20and%20Augmenting%20the%20dataset.ipynb).
+
+A transformed video would look like:
+
+
+
+https://github.com/amitparag/Attention-Classification/assets/19486899/1a01da68-9df5-46b9-b565-5355b9cdfec2
+
+
+
+
+Data from 25 objects were kept aside for training. After data transformation the new augmented dataset contained 124 slip cases and 408 wriggle cases.
 
 After this, we use [2 - Dataset.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/2%20-%20Dataset.ipynb) to create train, test, validation directories (See below)
 
