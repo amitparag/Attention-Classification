@@ -91,14 +91,14 @@ After that validation and plotting results.
 
 See [3 - Validation.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/3%20-%20Validation.ipynb) and [4 - Plot results.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/4%20-%20Plot%20results.ipynb)
 
-The validation accuracy is 
+The validation accuracy is 96.20 %.
 
 
 <div style="display: flex; justify-content: center;">
     <img src="assets/accuracy.jpg" alt="Image 1" style="width: 800px; margin-right: 10px;">
 </div>
 
-Furthermore, validation was carried out on data from 5 completely unseen objects leading to to 72 videos. The validation accuracy is 87.50%  
+Furthermore, validation was carried out on data from 5 completely unseen objects leading to to 72 videos. The validation accuracy is 87.50 %.
 
 ### Training
 
