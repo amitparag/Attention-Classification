@@ -48,7 +48,16 @@ One example of slip is shown below.
 
 
 
-https://github.com/amitparag/Attention-Classification/assets/19486899/bfd973d2-94ac-4395-aab3-194bfe0f313c
+https://github.com/amitparag/Attention-Classification/assets/19486899/ffdab1a0-f602-4898-9168-f3077726b9d3
+
+
+An example of wriggle is
+
+
+
+https://github.com/amitparag/Attention-Classification/assets/19486899/11a95897-6bb7-4f0d-ac93-71ddb5483f3f
+
+
 
 
 
