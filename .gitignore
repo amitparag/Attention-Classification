@@ -1,5 +1,5 @@
 # Ignore the dataset folder
-/dataset/
+#/dataset/
 
 # Ignore the checkpoints folder
 /checkpoints/
