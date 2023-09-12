@@ -280,5 +280,4 @@ and [Imageio-ffmpeg](https://pypi.org/project/imageio-ffmpeg/) for processing an
 
 See [notes](https://github.com/amitparag/Attention-Classification/tree/main/notes) for instructions on installing real time kernel and libfranka. 
     
-#### Acknowledgements
 
