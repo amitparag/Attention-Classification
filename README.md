@@ -73,54 +73,20 @@ An example of wriggle is
 https://github.com/amitparag/Attention-Classification/assets/19486899/11a95897-6bb7-4f0d-ac93-71ddb5483f3f
 
 
-After the data has been collected, we augment the data by adding transforming the collected data
+After the data has been collected, we augment the data by adding noise and swapping channels in each video
 
-        from imgaug import augmenters as iaa
-        sometimes = lambda aug: iaa.Sometimes(0.5, aug) # with probability 0.5
-
-            .......
-            iaa.OneOf([
-            iaa.GaussianBlur((0, 3.0)),
-            iaa.AverageBlur(k=(2, 7)),
-            iaa.MedianBlur(k=(3, 11)),
-        ]),
-        # Strengthen or weaken the contrast in each image.
-        sometimes(
-            iaa.LinearContrast((0.75, 1.5))
-        ),
-        sometimes(
-            iaa.ElasticTransformation(alpha=(0.5, 3.5), sigma=0.25)
-            .......
-
-For data transformation, see [1 - Transforming and Augmenting the dataset.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/1%20-%20Transforming%20and%20Augmenting%20the%20dataset.ipynb).
 
 A transformed video would look like:
 
 
 
-https://github.com/amitparag/Attention-Classification/assets/19486899/1a01da68-9df5-46b9-b565-5355b9cdfec2
 
 
 
 
-Data from 25 objects were kept aside for training. After data transformation the new augmented dataset contained 124 slip cases and 408 wriggle cases.
-
-After this, we use [2 - Dataset.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/2%20-%20Dataset.ipynb) to create train, test, validation directories (See below)
-
-The third step is training the model. Code is provided in [training.py](https://github.com/amitparag/Attention-Classification/blob/main/training.py) 
-
-After that validation and plotting results.
-
-See [3 - Validation.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/3%20-%20Validation.ipynb) and [4 - Plot results.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/4%20-%20Plot%20results.ipynb)
-
-The validation accuracy is 96.20 %.
+Data from 25 objects were kept aside for training. After data transformation the new augmented dataset contained 110 slip cases and 408 wriggle cases.
 
 
-<div style="display: flex; justify-content: center;">
-    <img src="assets/accuracy.jpg" alt="Image 1" style="width: 800px; margin-right: 10px;">
-</div>
-
-Furthermore, validation was carried out on data from 5 completely unseen objects leading to to 72 videos. The validation accuracy is 87.50 %. See [5.5 - Validation on unseen data.ipynb](https://github.com/amitparag/Attention-Classification/blob/main/5.5%20-%20Validation%20on%20unseen%20data.ipynb)
 
 
 ### Training
