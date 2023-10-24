@@ -1,0 +1,1494 @@
+
+Using device: cuda
+
+
+
+
+
+
+
+
+
+Epoch [1/100] (Training): 100%|█| 29/29 [00:21<00:00,  1.34it/s, Train Loss (Batch)=0
+
+Epoch [1/100] (Test):  85%|▊| 11/13 [00:02<00:00,  4.76it/s, Test Loss=0.438, Test Ac
+Epoch [1/100] - Train Loss: 0.5431 - Test Loss: 0.50567385 - Test Acc: 80.00000000%
+Epoch [1/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.77it/s, Test Loss=0.506, Test Ac
+
+
+
+
+
+
+
+
+
+
+
+Epoch [2/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=0
+
+Epoch [2/100] (Test):  92%|▉| 12/13 [00:02<00:00,  4.75it/s, Test Loss=0.446, Test Ac
+Epoch [2/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.82it/s, Test Loss=0.515, Test Ac
+
+
+
+
+
+
+
+
+
+
+
+Epoch [3/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=0
+Epoch [3/100] (Test):  15%|▏| 2/13 [00:00<00:02,  4.04it/s, Test Loss=0.0887, Test Ac
+
+Epoch [3/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.66it/s, Test Loss=0.49, Test Acc
+
+
+
+
+
+
+
+
+
+
+
+Epoch [4/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=0
+Epoch [4/100] (Test):  54%|▌| 7/13 [00:01<00:01,  4.72it/s, Test Loss=0.32, Test Acc=
+Epoch [4/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.90it/s, Test Loss=0.521, Test Ac
+
+
+
+
+
+
+
+
+
+
+
+Epoch [5/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.18it/s, Train Loss (Batch)=0
+
+Epoch [5/100] (Test):  85%|▊| 11/13 [00:02<00:00,  4.55it/s, Test Loss=0.266, Test Ac
+Epoch [5/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.65it/s, Test Loss=0.294, Test Ac
+
+
+
+
+
+
+
+
+
+
+
+Epoch [6/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=0
+Epoch [6/100] (Test):  31%|▎| 4/13 [00:00<00:01,  4.57it/s, Test Loss=0.163, Test Acc
+Epoch [6/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.73it/s, Test Loss=0.469, Test Ac
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [7/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=0
+Epoch [7/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.50it/s, Test Loss=0.18, Test Acc=
+Epoch [7/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.75it/s, Test Loss=0.394, Test Ac
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [8/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=0
+Epoch [8/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.68it/s, Test Loss=0.174, Test Acc
+Epoch [8/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.81it/s, Test Loss=0.249, Test Ac
+
+
+
+
+
+
+
+
+
+
+
+Epoch [9/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=0
+
+Epoch [9/100] (Test):  77%|▊| 10/13 [00:02<00:00,  4.77it/s, Test Loss=0.217, Test Ac
+Epoch [9/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.79it/s, Test Loss=0.227, Test Ac
+
+
+
+
+
+
+
+
+
+
+
+Epoch [10/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+
+Epoch [10/100] (Test):  92%|▉| 12/13 [00:02<00:00,  4.78it/s, Test Loss=0.182, Test A
+Epoch [10/100] - Train Loss: 0.2384 - Test Loss: 0.18271427 - Test Acc: 90.00000000%
+Epoch [10/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.80it/s, Test Loss=0.183, Test A
+
+
+
+
+
+
+
+
+
+
+
+Epoch [11/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [11/100] (Test):  23%|▏| 3/13 [00:00<00:02,  4.40it/s, Test Loss=0.0364, Test A
+Epoch [11/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.76it/s, Test Loss=0.323, Test A
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [12/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [12/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.50it/s, Test Loss=0.123, Test Ac
+Epoch [12/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.73it/s, Test Loss=0.265, Test A
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [13/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [13/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.66it/s, Test Loss=0.0915, Test A
+Epoch [13/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.74it/s, Test Loss=0.213, Test A
+
+
+
+
+
+
+
+
+
+
+
+Epoch [14/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=
+
+Epoch [14/100] (Test):  69%|▋| 9/13 [00:01<00:00,  4.79it/s, Test Loss=0.0587, Test A
+Epoch [14/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.86it/s, Test Loss=0.0789, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [15/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+
+Epoch [15/100] (Test):  85%|▊| 11/13 [00:02<00:00,  4.76it/s, Test Loss=0.365, Test A
+Epoch [15/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.79it/s, Test Loss=0.48, Test Ac
+
+
+
+
+
+
+
+
+
+
+
+Epoch [16/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=
+Epoch [16/100] (Test):  31%|▎| 4/13 [00:00<00:01,  4.54it/s, Test Loss=0.00545, Test
+Epoch [16/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.82it/s, Test Loss=0.0215, Test
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [17/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.15it/s, Train Loss (Batch)=
+Epoch [17/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.61it/s, Test Loss=0.00641, Test
+Epoch [17/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.72it/s, Test Loss=0.0255, Test
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [18/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [18/100] (Test):  54%|▌| 7/13 [00:01<00:01,  4.56it/s, Test Loss=0.00265, Test
+Epoch [18/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.73it/s, Test Loss=0.00572, Test
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [19/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [19/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.67it/s, Test Loss=0.00271, Test
+Epoch [19/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.78it/s, Test Loss=0.00452, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [20/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=
+
+Epoch [20/100] (Test):  77%|▊| 10/13 [00:02<00:00,  4.66it/s, Test Loss=0.00296, Test
+Epoch [20/100] - Train Loss: 0.0041 - Test Loss: 0.00360744 - Test Acc: 100.00000000%
+Epoch [20/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.72it/s, Test Loss=0.00361, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [21/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+
+Epoch [21/100] (Test):  85%|▊| 11/13 [00:02<00:00,  4.61it/s, Test Loss=0.00267, Test
+Epoch [21/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.70it/s, Test Loss=0.00309, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [22/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [22/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.83it/s, Test Loss=0.00272, Test
+Epoch [23/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [23/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [23/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.45it/s, Test Loss=0.000961, Test
+Epoch [23/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.72it/s, Test Loss=0.00244, Test
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [24/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=
+Epoch [24/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.68it/s, Test Loss=0.00131, Test
+Epoch [24/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.73it/s, Test Loss=0.00226, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [25/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=
+
+Epoch [25/100] (Test):  77%|▊| 10/13 [00:02<00:00,  4.69it/s, Test Loss=0.0015, Test
+Epoch [25/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.81it/s, Test Loss=0.00203, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [26/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=
+
+Epoch [26/100] (Test):  92%|▉| 12/13 [00:02<00:00,  4.58it/s, Test Loss=0.00188, Test
+Epoch [26/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.66it/s, Test Loss=0.00188, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [27/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [27/100] (Test):  31%|▎| 4/13 [00:00<00:02,  4.48it/s, Test Loss=0.000549, Test
+Epoch [27/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.73it/s, Test Loss=0.00179, Test
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [28/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=
+Epoch [28/100] (Test):  54%|▌| 7/13 [00:01<00:01,  4.79it/s, Test Loss=0.000875, Test
+Epoch [28/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.81it/s, Test Loss=0.00167, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [29/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=
+
+Epoch [29/100] (Test):  69%|▋| 9/13 [00:01<00:00,  4.81it/s, Test Loss=0.00111, Test
+Epoch [29/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.83it/s, Test Loss=0.00155, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [30/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+
+Epoch [30/100] (Test):  92%|▉| 12/13 [00:02<00:00,  4.76it/s, Test Loss=0.00137, Test
+Epoch [30/100] - Train Loss: 0.0015 - Test Loss: 0.00146319 - Test Acc: 100.00000000%
+Epoch [30/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.76it/s, Test Loss=0.00146, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [31/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=
+Epoch [31/100] (Test):  31%|▎| 4/13 [00:00<00:02,  4.49it/s, Test Loss=0.000404, Test
+Epoch [31/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.77it/s, Test Loss=0.00138, Test
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [32/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=
+Epoch [32/100] (Test):  54%|▌| 7/13 [00:01<00:01,  4.80it/s, Test Loss=0.000703, Test
+Epoch [32/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.80it/s, Test Loss=0.00131, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [33/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+
+Epoch [33/100] (Test):  69%|▋| 9/13 [00:02<00:00,  4.64it/s, Test Loss=0.000852, Test
+Epoch [33/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.76it/s, Test Loss=0.00128, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [34/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+
+Epoch [34/100] (Test):  85%|▊| 11/13 [00:02<00:00,  4.72it/s, Test Loss=0.00102, Test
+Epoch [34/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.82it/s, Test Loss=0.00121, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [35/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [35/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.77it/s, Test Loss=0.00114, Test
+Epoch [36/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [36/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [36/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.70it/s, Test Loss=0.000498, Test
+Epoch [36/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.89it/s, Test Loss=0.0011, Test
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [37/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [37/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.78it/s, Test Loss=0.000655, Test
+Epoch [37/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.78it/s, Test Loss=0.00104, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [38/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+
+Epoch [38/100] (Test):  77%|▊| 10/13 [00:02<00:00,  4.72it/s, Test Loss=0.000747, Tes
+Epoch [38/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.77it/s, Test Loss=0.00102, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [39/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=
+
+Epoch [39/100] (Test):  92%|▉| 12/13 [00:02<00:00,  4.68it/s, Test Loss=0.000897, Tes
+Epoch [39/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.72it/s, Test Loss=0.000962, Tes
+
+
+
+
+
+
+
+
+
+
+
+Epoch [40/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [40/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.70it/s, Test Loss=0.000361, Test
+Epoch [40/100] - Train Loss: 0.0009 - Test Loss: 0.00092403 - Test Acc: 100.00000000%
+Epoch [40/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.81it/s, Test Loss=0.000924, Tes
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [41/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.15it/s, Train Loss (Batch)=
+Epoch [41/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.58it/s, Test Loss=0.000344, Test
+Epoch [41/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.70it/s, Test Loss=0.000889, Tes
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [42/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.15it/s, Train Loss (Batch)=
+Epoch [42/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.65it/s, Test Loss=0.00042, Test
+Epoch [42/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.73it/s, Test Loss=0.000855, Tes
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [43/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=
+Epoch [43/100] (Test):  69%|▋| 9/13 [00:01<00:00,  4.75it/s, Test Loss=0.000565, Test
+Epoch [43/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.76it/s, Test Loss=0.000824, Tes
+
+
+
+
+
+
+
+
+
+
+
+Epoch [44/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+
+Epoch [44/100] (Test):  85%|▊| 11/13 [00:02<00:00,  4.67it/s, Test Loss=0.000683, Tes
+Epoch [44/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.76it/s, Test Loss=0.000794, Tes
+
+
+
+
+
+
+
+
+
+
+
+Epoch [45/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [45/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.83it/s, Test Loss=0.000767, Tes
+Epoch [46/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [46/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [46/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.80it/s, Test Loss=0.00074, Test
+Epoch [47/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [47/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [47/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.62it/s, Test Loss=0.000301, Test
+Epoch [47/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.75it/s, Test Loss=0.000724, Tes
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch [48/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [48/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.70it/s, Test Loss=0.000433, Test
+Epoch [48/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.73it/s, Test Loss=0.00069, Test
+
+
+
+
+
+
+
+
+
+
+
+Epoch [49/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=
+
+Epoch [49/100] (Test):  77%|▊| 10/13 [00:02<00:00,  4.79it/s, Test Loss=0.000515, Tes
+Epoch [49/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.77it/s, Test Loss=0.000672, Tes
+
+
+
+
+
+
+
+
+
+
+
+Epoch [50/100] (Training): 100%|█| 29/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+
+Epoch [50/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.74it/s, Test Loss=0.00065, Test
+Epoch [50/100] - Train Loss: 0.0007 - Test Loss: 0.00065005 - Test Acc: 100.00000000%
+Checkpoint saved at epoch 50
+Epoch [51/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.17it/s, Train Loss (Batch)=0
+Epoch [51/100] (Training):  21%|▏| 6/29 [00:05<00:19,  1.17it/s, Train Loss (Batch)=0
+Epoch [51/100] (Training):  31%|▎| 9/29 [00:07<00:16,  1.18it/s, Train Loss (Batch)=0
+Epoch [51/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.16it/s, Train Loss (Batch)=
+Epoch [51/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.17it/s, Train Loss (Batch)=
+Epoch [51/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.16it/s, Train Loss (Batch)=
+Epoch [51/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.16it/s, Train Loss (Batch)=
+Epoch [51/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.18it/s, Train Loss (Batch)=
+Epoch [51/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.17it/s, Train Loss (Batch)=
+Epoch [51/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.16it/s, Train Loss (Batch)=
+Epoch [51/100] (Training):  97%|▉| 28/29 [00:23<00:00,  1.18it/s, Train Loss (Batch)=
+Epoch [51/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.62it/s, Test Loss=0.000238, Test
+Epoch [51/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.62it/s, Test Loss=0.000238, Test
+Epoch [52/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [52/100] (Training):   7%| | 2/29 [00:01<00:24,  1.11it/s, Train Loss (Batch)=0
+Epoch [52/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.15it/s, Train Loss (Batch)=0
+Epoch [52/100] (Training):  24%|▏| 7/29 [00:06<00:19,  1.15it/s, Train Loss (Batch)=0
+Epoch [52/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.15it/s, Train Loss (Batch)=0
+Epoch [52/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.15it/s, Train Loss (Batch)=
+Epoch [52/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [52/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.15it/s, Train Loss (Batch)=
+Epoch [52/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.16it/s, Train Loss (Batch)=
+Epoch [52/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.17it/s, Train Loss (Batch)=
+Epoch [52/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.15it/s, Train Loss (Batch)=
+Epoch [52/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.16it/s, Train Loss (Batch)=
+Epoch [52/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [52/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.52it/s, Test Loss=0.000267, Test
+Epoch [52/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.52it/s, Test Loss=0.000267, Test
+Epoch [53/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [53/100] (Training):   7%| | 2/29 [00:01<00:24,  1.10it/s, Train Loss (Batch)=0
+Epoch [53/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.16it/s, Train Loss (Batch)=0
+Epoch [53/100] (Training):  24%|▏| 7/29 [00:06<00:18,  1.17it/s, Train Loss (Batch)=0
+Epoch [53/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.18it/s, Train Loss (Batch)=
+Epoch [53/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.17it/s, Train Loss (Batch)=
+Epoch [53/100] (Training):  48%|▍| 14/29 [00:11<00:12,  1.18it/s, Train Loss (Batch)=
+Epoch [53/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.18it/s, Train Loss (Batch)=
+Epoch [53/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.18it/s, Train Loss (Batch)=
+Epoch [53/100] (Training):  72%|▋| 21/29 [00:17<00:06,  1.17it/s, Train Loss (Batch)=
+Epoch [53/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.17it/s, Train Loss (Batch)=
+Epoch [53/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.15it/s, Train Loss (Batch)=
+Epoch [53/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [53/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.67it/s, Test Loss=0.00036, Test
+Epoch [53/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.67it/s, Test Loss=0.00036, Test
+Epoch [54/100] (Training):   3%| | 1/29 [00:00<00:27,  1.03it/s, Train Loss (Batch)=0
+Epoch [54/100] (Training):  10%| | 3/29 [00:02<00:22,  1.14it/s, Train Loss (Batch)=0
+Epoch [54/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.15it/s, Train Loss (Batch)=0
+Epoch [54/100] (Training):  28%|▎| 8/29 [00:06<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [54/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.16it/s, Train Loss (Batch)=
+Epoch [54/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.16it/s, Train Loss (Batch)=
+Epoch [54/100] (Training):  52%|▌| 15/29 [00:13<00:12,  1.15it/s, Train Loss (Batch)=
+Epoch [54/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.14it/s, Train Loss (Batch)=
+Epoch [54/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.15it/s, Train Loss (Batch)=
+Epoch [54/100] (Training):  76%|▊| 22/29 [00:19<00:06,  1.16it/s, Train Loss (Batch)=
+Epoch [54/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.15it/s, Train Loss (Batch)=
+Epoch [54/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.15it/s, Train Loss (Batch)=
+Epoch [54/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [54/100] (Test):  69%|▋| 9/13 [00:01<00:00,  4.78it/s, Test Loss=0.000391, Test
+Epoch [54/100] (Test):  69%|▋| 9/13 [00:01<00:00,  4.78it/s, Test Loss=0.000391, Test
+Epoch [55/100] (Training):   3%| | 1/29 [00:00<00:27,  1.03it/s, Train Loss (Batch)=0
+Epoch [55/100] (Training):  10%| | 3/29 [00:02<00:23,  1.13it/s, Train Loss (Batch)=0
+Epoch [55/100] (Training):  21%|▏| 6/29 [00:05<00:19,  1.16it/s, Train Loss (Batch)=0
+Epoch [55/100] (Training):  28%|▎| 8/29 [00:06<00:17,  1.17it/s, Train Loss (Batch)=0
+Epoch [55/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.17it/s, Train Loss (Batch)=
+Epoch [55/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.16it/s, Train Loss (Batch)=
+Epoch [55/100] (Training):  52%|▌| 15/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [55/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.15it/s, Train Loss (Batch)=
+Epoch [55/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.16it/s, Train Loss (Batch)=
+Epoch [55/100] (Training):  76%|▊| 22/29 [00:18<00:05,  1.17it/s, Train Loss (Batch)=
+Epoch [55/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.17it/s, Train Loss (Batch)=
+Epoch [55/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.17it/s, Train Loss (Batch)=
+Epoch [55/100] (Test):   8%| | 1/13 [00:00<00:03,  3.46it/s, Test Loss=3.89e-5, Test
+Epoch [55/100] (Test):  77%|▊| 10/13 [00:02<00:00,  4.55it/s, Test Loss=0.000423, Tes
+Epoch [55/100] (Test):  77%|▊| 10/13 [00:02<00:00,  4.55it/s, Test Loss=0.000423, Tes
+Epoch [56/100] (Training):   3%| | 1/29 [00:00<00:25,  1.09it/s, Train Loss (Batch)=0
+Epoch [56/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.17it/s, Train Loss (Batch)=0
+Epoch [56/100] (Training):  21%|▏| 6/29 [00:05<00:19,  1.17it/s, Train Loss (Batch)=0
+Epoch [56/100] (Training):  28%|▎| 8/29 [00:06<00:17,  1.17it/s, Train Loss (Batch)=0
+Epoch [56/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.16it/s, Train Loss (Batch)=
+Epoch [56/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.16it/s, Train Loss (Batch)=
+Epoch [56/100] (Training):  52%|▌| 15/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [56/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.16it/s, Train Loss (Batch)=
+Epoch [56/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.15it/s, Train Loss (Batch)=
+Epoch [56/100] (Training):  76%|▊| 22/29 [00:18<00:06,  1.16it/s, Train Loss (Batch)=
+Epoch [56/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.16it/s, Train Loss (Batch)=
+Epoch [56/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.15it/s, Train Loss (Batch)=
+Epoch [56/100] (Test):  15%|▏| 2/13 [00:00<00:02,  4.00it/s, Test Loss=7.92e-5, Test
+Epoch [56/100] (Test):  92%|▉| 12/13 [00:02<00:00,  4.69it/s, Test Loss=0.00049, Test
+Epoch [56/100] (Test):  92%|▉| 12/13 [00:02<00:00,  4.69it/s, Test Loss=0.00049, Test
+Epoch [57/100] (Training):   7%| | 2/29 [00:01<00:23,  1.13it/s, Train Loss (Batch)=0
+Epoch [57/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.15it/s, Train Loss (Batch)=0
+Epoch [57/100] (Training):  21%|▏| 6/29 [00:05<00:19,  1.16it/s, Train Loss (Batch)=0
+Epoch [57/100] (Training):  31%|▎| 9/29 [00:07<00:16,  1.18it/s, Train Loss (Batch)=0
+Epoch [57/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.17it/s, Train Loss (Batch)=
+Epoch [57/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.15it/s, Train Loss (Batch)=
+Epoch [57/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.15it/s, Train Loss (Batch)=
+Epoch [57/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.15it/s, Train Loss (Batch)=
+Epoch [57/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.16it/s, Train Loss (Batch)=
+Epoch [57/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.16it/s, Train Loss (Batch)=
+Epoch [57/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.16it/s, Train Loss (Batch)=
+Epoch [57/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.17it/s, Train Loss (Batch)=
+Epoch [57/100] (Test):  31%|▎| 4/13 [00:00<00:02,  4.48it/s, Test Loss=0.000154, Test
+Epoch [58/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [58/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [58/100] (Training):   7%| | 2/29 [00:01<00:23,  1.13it/s, Train Loss (Batch)=0
+Epoch [58/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.14it/s, Train Loss (Batch)=0
+Epoch [58/100] (Training):  24%|▏| 7/29 [00:06<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [58/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.16it/s, Train Loss (Batch)=0
+Epoch [58/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.17it/s, Train Loss (Batch)=
+Epoch [58/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.17it/s, Train Loss (Batch)=
+Epoch [58/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.18it/s, Train Loss (Batch)=
+Epoch [58/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.17it/s, Train Loss (Batch)=
+Epoch [58/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.17it/s, Train Loss (Batch)=
+Epoch [58/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.16it/s, Train Loss (Batch)=
+Epoch [58/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.17it/s, Train Loss (Batch)=
+Epoch [58/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=
+Epoch [58/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.51it/s, Test Loss=0.000233, Test
+Epoch [58/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.51it/s, Test Loss=0.000233, Test
+Epoch [59/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [59/100] (Training):  10%| | 3/29 [00:02<00:22,  1.15it/s, Train Loss (Batch)=0
+Epoch [59/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.16it/s, Train Loss (Batch)=0
+Epoch [59/100] (Training):  24%|▏| 7/29 [00:06<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [59/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.16it/s, Train Loss (Batch)=
+Epoch [59/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.16it/s, Train Loss (Batch)=
+Epoch [59/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.17it/s, Train Loss (Batch)=
+Epoch [59/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.17it/s, Train Loss (Batch)=
+Epoch [59/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.16it/s, Train Loss (Batch)=
+Epoch [59/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.17it/s, Train Loss (Batch)=
+Epoch [59/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.16it/s, Train Loss (Batch)=
+Epoch [59/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.16it/s, Train Loss (Batch)=
+Epoch [59/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=
+Epoch [59/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.76it/s, Test Loss=0.000305, Test
+Epoch [59/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.76it/s, Test Loss=0.000305, Test
+Epoch [60/100] (Training):   3%| | 1/29 [00:00<00:26,  1.08it/s, Train Loss (Batch)=0
+Epoch [60/100] (Training):  10%| | 3/29 [00:02<00:22,  1.15it/s, Train Loss (Batch)=0
+Epoch [60/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.16it/s, Train Loss (Batch)=0
+Epoch [60/100] (Training):  28%|▎| 8/29 [00:06<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [60/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.17it/s, Train Loss (Batch)=
+Epoch [60/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.16it/s, Train Loss (Batch)=
+Epoch [60/100] (Training):  52%|▌| 15/29 [00:12<00:12,  1.17it/s, Train Loss (Batch)=
+Epoch [60/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.17it/s, Train Loss (Batch)=
+Epoch [60/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.17it/s, Train Loss (Batch)=
+Epoch [60/100] (Training):  76%|▊| 22/29 [00:18<00:05,  1.17it/s, Train Loss (Batch)=
+Epoch [60/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.17it/s, Train Loss (Batch)=
+Epoch [60/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.16it/s, Train Loss (Batch)=
+Epoch [60/100] (Test):   0%|                                  | 0/13 [00:00<?, ?it/s]
+Epoch [60/100] (Test):  77%|▊| 10/13 [00:02<00:00,  4.83it/s, Test Loss=0.00037, Test
+Epoch [60/100] (Test):  77%|▊| 10/13 [00:02<00:00,  4.83it/s, Test Loss=0.00037, Test
+Epoch [60/100] - Train Loss: 0.0005 - Test Loss: 0.00047097 - Test Acc: 100.00000000%
+Epoch [61/100] (Training):   3%| | 1/29 [00:00<00:25,  1.08it/s, Train Loss (Batch)=0
+Epoch [61/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.14it/s, Train Loss (Batch)=0
+Epoch [61/100] (Training):  21%|▏| 6/29 [00:05<00:19,  1.17it/s, Train Loss (Batch)=0
+Epoch [61/100] (Training):  28%|▎| 8/29 [00:06<00:17,  1.17it/s, Train Loss (Batch)=0
+Epoch [61/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.18it/s, Train Loss (Batch)=
+Epoch [61/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.17it/s, Train Loss (Batch)=
+Epoch [61/100] (Training):  52%|▌| 15/29 [00:12<00:12,  1.17it/s, Train Loss (Batch)=
+Epoch [61/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.16it/s, Train Loss (Batch)=
+Epoch [61/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.16it/s, Train Loss (Batch)=
+Epoch [61/100] (Training):  76%|▊| 22/29 [00:18<00:05,  1.17it/s, Train Loss (Batch)=
+Epoch [61/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.16it/s, Train Loss (Batch)=
+Epoch [61/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.17it/s, Train Loss (Batch)=
+Epoch [61/100] (Test):  15%|▏| 2/13 [00:00<00:02,  4.14it/s, Test Loss=6.98e-5, Test
+Epoch [61/100] (Test):  92%|▉| 12/13 [00:02<00:00,  4.71it/s, Test Loss=0.000425, Tes
+Epoch [61/100] (Test):  92%|▉| 12/13 [00:02<00:00,  4.71it/s, Test Loss=0.000425, Tes
+Epoch [62/100] (Training):   7%| | 2/29 [00:01<00:23,  1.13it/s, Train Loss (Batch)=0
+Epoch [62/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.16it/s, Train Loss (Batch)=0
+Epoch [62/100] (Training):  21%|▏| 6/29 [00:05<00:20,  1.14it/s, Train Loss (Batch)=0
+Epoch [62/100] (Training):  28%|▎| 8/29 [00:07<00:18,  1.15it/s, Train Loss (Batch)=0
+Epoch [62/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.16it/s, Train Loss (Batch)=
+Epoch [62/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.15it/s, Train Loss (Batch)=
+Epoch [62/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.15it/s, Train Loss (Batch)=
+Epoch [62/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.16it/s, Train Loss (Batch)=
+Epoch [62/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.16it/s, Train Loss (Batch)=
+Epoch [62/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.17it/s, Train Loss (Batch)=
+Epoch [62/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.14it/s, Train Loss (Batch)=
+Epoch [62/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.15it/s, Train Loss (Batch)=
+Epoch [62/100] (Test):  23%|▏| 3/13 [00:00<00:02,  4.31it/s, Test Loss=0.000107, Test
+Epoch [63/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [63/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [63/100] (Training):   7%| | 2/29 [00:01<00:24,  1.10it/s, Train Loss (Batch)=0
+Epoch [63/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.16it/s, Train Loss (Batch)=0
+Epoch [63/100] (Training):  24%|▏| 7/29 [00:06<00:18,  1.17it/s, Train Loss (Batch)=0
+Epoch [63/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.17it/s, Train Loss (Batch)=0
+Epoch [63/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.17it/s, Train Loss (Batch)=
+Epoch [63/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [63/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.16it/s, Train Loss (Batch)=
+Epoch [63/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.15it/s, Train Loss (Batch)=
+Epoch [63/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.14it/s, Train Loss (Batch)=
+Epoch [63/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.15it/s, Train Loss (Batch)=
+Epoch [63/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.16it/s, Train Loss (Batch)=
+Epoch [63/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.15it/s, Train Loss (Batch)=
+Epoch [63/100] (Test):  31%|▎| 4/13 [00:00<00:01,  4.51it/s, Test Loss=0.000135, Test
+Epoch [64/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [64/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [64/100] (Training):   7%| | 2/29 [00:01<00:24,  1.12it/s, Train Loss (Batch)=0
+Epoch [64/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.14it/s, Train Loss (Batch)=0
+Epoch [64/100] (Training):  24%|▏| 7/29 [00:06<00:18,  1.17it/s, Train Loss (Batch)=0
+Epoch [64/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.16it/s, Train Loss (Batch)=0
+Epoch [64/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.16it/s, Train Loss (Batch)=
+Epoch [64/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [64/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.17it/s, Train Loss (Batch)=
+Epoch [64/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.17it/s, Train Loss (Batch)=
+Epoch [64/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.15it/s, Train Loss (Batch)=
+Epoch [64/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.15it/s, Train Loss (Batch)=
+Epoch [64/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.17it/s, Train Loss (Batch)=
+Epoch [64/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [64/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.61it/s, Test Loss=0.000184, Test
+Epoch [64/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.61it/s, Test Loss=0.000184, Test
+Epoch [65/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [65/100] (Training):  10%| | 3/29 [00:02<00:22,  1.15it/s, Train Loss (Batch)=0
+Epoch [65/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.15it/s, Train Loss (Batch)=0
+Epoch [65/100] (Training):  24%|▏| 7/29 [00:06<00:19,  1.15it/s, Train Loss (Batch)=0
+Epoch [65/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.14it/s, Train Loss (Batch)=0
+Epoch [65/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.16it/s, Train Loss (Batch)=
+Epoch [65/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [65/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.16it/s, Train Loss (Batch)=
+Epoch [65/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.17it/s, Train Loss (Batch)=
+Epoch [65/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.18it/s, Train Loss (Batch)=
+Epoch [65/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.16it/s, Train Loss (Batch)=
+Epoch [65/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.17it/s, Train Loss (Batch)=
+Epoch [65/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=
+Epoch [65/100] (Test):  54%|▌| 7/13 [00:01<00:01,  4.61it/s, Test Loss=0.000219, Test
+Epoch [65/100] (Test):  54%|▌| 7/13 [00:01<00:01,  4.61it/s, Test Loss=0.000219, Test
+Epoch [66/100] (Training):   3%| | 1/29 [00:00<00:25,  1.09it/s, Train Loss (Batch)=0
+Epoch [66/100] (Training):  10%| | 3/29 [00:02<00:22,  1.16it/s, Train Loss (Batch)=0
+Epoch [66/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.16it/s, Train Loss (Batch)=0
+Epoch [66/100] (Training):  28%|▎| 8/29 [00:06<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [66/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.17it/s, Train Loss (Batch)=
+Epoch [66/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.16it/s, Train Loss (Batch)=
+Epoch [66/100] (Training):  52%|▌| 15/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [66/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.16it/s, Train Loss (Batch)=
+Epoch [66/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.17it/s, Train Loss (Batch)=
+Epoch [66/100] (Training):  76%|▊| 22/29 [00:18<00:06,  1.16it/s, Train Loss (Batch)=
+Epoch [66/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.16it/s, Train Loss (Batch)=
+Epoch [66/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.14it/s, Train Loss (Batch)=
+Epoch [66/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [66/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.60it/s, Test Loss=0.000243, Test
+Epoch [66/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.60it/s, Test Loss=0.000243, Test
+Epoch [67/100] (Training):   3%| | 1/29 [00:00<00:25,  1.08it/s, Train Loss (Batch)=0
+Epoch [67/100] (Training):  10%| | 3/29 [00:02<00:22,  1.15it/s, Train Loss (Batch)=0
+Epoch [67/100] (Training):  21%|▏| 6/29 [00:05<00:19,  1.16it/s, Train Loss (Batch)=0
+Epoch [67/100] (Training):  28%|▎| 8/29 [00:06<00:17,  1.17it/s, Train Loss (Batch)=0
+Epoch [67/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.17it/s, Train Loss (Batch)=
+Epoch [67/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.16it/s, Train Loss (Batch)=
+Epoch [67/100] (Training):  52%|▌| 15/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [67/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.17it/s, Train Loss (Batch)=
+Epoch [67/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.16it/s, Train Loss (Batch)=
+Epoch [67/100] (Training):  76%|▊| 22/29 [00:18<00:05,  1.17it/s, Train Loss (Batch)=
+Epoch [67/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.16it/s, Train Loss (Batch)=
+Epoch [67/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.16it/s, Train Loss (Batch)=
+Epoch [67/100] (Test):   8%| | 1/13 [00:00<00:03,  3.43it/s, Test Loss=2.78e-5, Test
+Epoch [67/100] (Test):  85%|▊| 11/13 [00:02<00:00,  4.76it/s, Test Loss=0.00032, Test
+Epoch [67/100] (Test):  85%|▊| 11/13 [00:02<00:00,  4.76it/s, Test Loss=0.00032, Test
+Epoch [68/100] (Training):   3%| | 1/29 [00:00<00:26,  1.06it/s, Train Loss (Batch)=0
+Epoch [68/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.15it/s, Train Loss (Batch)=0
+Epoch [68/100] (Training):  21%|▏| 6/29 [00:05<00:19,  1.17it/s, Train Loss (Batch)=0
+Epoch [68/100] (Training):  28%|▎| 8/29 [00:06<00:17,  1.17it/s, Train Loss (Batch)=0
+Epoch [68/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.18it/s, Train Loss (Batch)=
+Epoch [68/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.17it/s, Train Loss (Batch)=
+Epoch [68/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.17it/s, Train Loss (Batch)=
+Epoch [68/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.18it/s, Train Loss (Batch)=
+Epoch [68/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.18it/s, Train Loss (Batch)=
+Epoch [68/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.17it/s, Train Loss (Batch)=
+Epoch [68/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.16it/s, Train Loss (Batch)=
+Epoch [68/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.17it/s, Train Loss (Batch)=
+Epoch [68/100] (Test):  23%|▏| 3/13 [00:00<00:02,  4.45it/s, Test Loss=9.11e-5, Test
+Epoch [68/100] (Test):  23%|▏| 3/13 [00:00<00:02,  4.45it/s, Test Loss=9.11e-5, Test
+Epoch [69/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [69/100] (Training):   7%| | 2/29 [00:01<00:23,  1.14it/s, Train Loss (Batch)=0
+Epoch [69/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.16it/s, Train Loss (Batch)=0
+Epoch [69/100] (Training):  24%|▏| 7/29 [00:06<00:18,  1.18it/s, Train Loss (Batch)=0
+Epoch [69/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.17it/s, Train Loss (Batch)=0
+Epoch [69/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.16it/s, Train Loss (Batch)=
+Epoch [69/100] (Training):  48%|▍| 14/29 [00:12<00:13,  1.15it/s, Train Loss (Batch)=
+Epoch [69/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.15it/s, Train Loss (Batch)=
+Epoch [69/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.15it/s, Train Loss (Batch)=
+Epoch [69/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.15it/s, Train Loss (Batch)=
+Epoch [69/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.15it/s, Train Loss (Batch)=
+Epoch [69/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.16it/s, Train Loss (Batch)=
+Epoch [69/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.15it/s, Train Loss (Batch)=
+Epoch [69/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.64it/s, Test Loss=0.000138, Test
+Epoch [69/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.64it/s, Test Loss=0.000138, Test
+Epoch [70/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [70/100] (Training):   7%| | 2/29 [00:01<00:24,  1.11it/s, Train Loss (Batch)=0
+Epoch [70/100] (Training):  14%|▏| 4/29 [00:03<00:22,  1.12it/s, Train Loss (Batch)=0
+Epoch [70/100] (Training):  24%|▏| 7/29 [00:06<00:19,  1.14it/s, Train Loss (Batch)=0
+Epoch [70/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.14it/s, Train Loss (Batch)=0
+Epoch [70/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.15it/s, Train Loss (Batch)=
+Epoch [70/100] (Training):  48%|▍| 14/29 [00:12<00:13,  1.15it/s, Train Loss (Batch)=
+Epoch [70/100] (Training):  55%|▌| 16/29 [00:14<00:11,  1.15it/s, Train Loss (Batch)=
+Epoch [70/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.16it/s, Train Loss (Batch)=
+Epoch [70/100] (Training):  72%|▋| 21/29 [00:18<00:07,  1.14it/s, Train Loss (Batch)=
+Epoch [70/100] (Training):  79%|▊| 23/29 [00:20<00:05,  1.16it/s, Train Loss (Batch)=
+Epoch [70/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.17it/s, Train Loss (Batch)=
+Epoch [70/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [70/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.54it/s, Test Loss=0.000133, Test
+Epoch [70/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.54it/s, Test Loss=0.000133, Test
+Epoch [70/100] - Train Loss: 0.0004 - Test Loss: 0.00035548 - Test Acc: 100.00000000%
+Epoch [71/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [71/100] (Training):   7%| | 2/29 [00:01<00:24,  1.11it/s, Train Loss (Batch)=0
+Epoch [71/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.15it/s, Train Loss (Batch)=0
+Epoch [71/100] (Training):  24%|▏| 7/29 [00:06<00:19,  1.16it/s, Train Loss (Batch)=0
+Epoch [71/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.14it/s, Train Loss (Batch)=0
+Epoch [71/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.15it/s, Train Loss (Batch)=
+Epoch [71/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.15it/s, Train Loss (Batch)=
+Epoch [71/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.16it/s, Train Loss (Batch)=
+Epoch [71/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.16it/s, Train Loss (Batch)=
+Epoch [71/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.16it/s, Train Loss (Batch)=
+Epoch [71/100] (Training):  79%|▊| 23/29 [00:20<00:05,  1.16it/s, Train Loss (Batch)=
+Epoch [71/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.17it/s, Train Loss (Batch)=
+Epoch [71/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [71/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.42it/s, Test Loss=0.000131, Test
+Epoch [71/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.42it/s, Test Loss=0.000131, Test
+Epoch [72/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [72/100] (Training):   7%| | 2/29 [00:01<00:23,  1.14it/s, Train Loss (Batch)=0
+Epoch [72/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.16it/s, Train Loss (Batch)=0
+Epoch [72/100] (Training):  24%|▏| 7/29 [00:06<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [72/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.18it/s, Train Loss (Batch)=
+Epoch [72/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.17it/s, Train Loss (Batch)=
+Epoch [72/100] (Training):  48%|▍| 14/29 [00:12<00:13,  1.14it/s, Train Loss (Batch)=
+Epoch [72/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.15it/s, Train Loss (Batch)=
+Epoch [72/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.15it/s, Train Loss (Batch)=
+Epoch [72/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.15it/s, Train Loss (Batch)=
+Epoch [72/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.15it/s, Train Loss (Batch)=
+Epoch [72/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.13it/s, Train Loss (Batch)=
+Epoch [72/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.14it/s, Train Loss (Batch)=
+Epoch [72/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.46it/s, Test Loss=0.000156, Test
+Epoch [72/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.46it/s, Test Loss=0.000156, Test
+Epoch [73/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [73/100] (Training):  10%| | 3/29 [00:02<00:22,  1.13it/s, Train Loss (Batch)=0
+Epoch [73/100] (Training):  17%|▏| 5/29 [00:04<00:21,  1.14it/s, Train Loss (Batch)=0
+Epoch [73/100] (Training):  24%|▏| 7/29 [00:06<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [73/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.16it/s, Train Loss (Batch)=
+Epoch [73/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.17it/s, Train Loss (Batch)=
+Epoch [73/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [73/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.16it/s, Train Loss (Batch)=
+Epoch [73/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.17it/s, Train Loss (Batch)=
+Epoch [73/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.16it/s, Train Loss (Batch)=
+Epoch [73/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.16it/s, Train Loss (Batch)=
+Epoch [73/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.16it/s, Train Loss (Batch)=
+Epoch [73/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=
+Epoch [73/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.73it/s, Test Loss=0.000205, Test
+Epoch [73/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.73it/s, Test Loss=0.000205, Test
+Epoch [74/100] (Training):   3%| | 1/29 [00:00<00:26,  1.04it/s, Train Loss (Batch)=0
+Epoch [74/100] (Training):  10%| | 3/29 [00:02<00:22,  1.14it/s, Train Loss (Batch)=0
+Epoch [74/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.15it/s, Train Loss (Batch)=0
+Epoch [74/100] (Training):  28%|▎| 8/29 [00:06<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [74/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.17it/s, Train Loss (Batch)=
+Epoch [74/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.15it/s, Train Loss (Batch)=
+Epoch [74/100] (Training):  52%|▌| 15/29 [00:13<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [74/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.17it/s, Train Loss (Batch)=
+Epoch [74/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.16it/s, Train Loss (Batch)=
+Epoch [74/100] (Training):  76%|▊| 22/29 [00:19<00:05,  1.17it/s, Train Loss (Batch)=
+Epoch [74/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.18it/s, Train Loss (Batch)=
+Epoch [74/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.18it/s, Train Loss (Batch)=
+Epoch [74/100] (Test):   0%|                                  | 0/13 [00:00<?, ?it/s]
+Epoch [74/100] (Test):  69%|▋| 9/13 [00:01<00:00,  4.68it/s, Test Loss=0.000221, Test
+Epoch [74/100] (Test):  69%|▋| 9/13 [00:01<00:00,  4.68it/s, Test Loss=0.000221, Test
+Epoch [75/100] (Training):   3%| | 1/29 [00:00<00:26,  1.08it/s, Train Loss (Batch)=0
+Epoch [75/100] (Training):  10%| | 3/29 [00:02<00:22,  1.14it/s, Train Loss (Batch)=0
+Epoch [75/100] (Training):  21%|▏| 6/29 [00:05<00:19,  1.16it/s, Train Loss (Batch)=0
+Epoch [75/100] (Training):  28%|▎| 8/29 [00:06<00:17,  1.17it/s, Train Loss (Batch)=0
+Epoch [75/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.16it/s, Train Loss (Batch)=
+Epoch [75/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.16it/s, Train Loss (Batch)=
+Epoch [75/100] (Training):  52%|▌| 15/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [75/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.16it/s, Train Loss (Batch)=
+Epoch [75/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.16it/s, Train Loss (Batch)=
+Epoch [75/100] (Training):  76%|▊| 22/29 [00:18<00:06,  1.16it/s, Train Loss (Batch)=
+Epoch [75/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.16it/s, Train Loss (Batch)=
+Epoch [75/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.16it/s, Train Loss (Batch)=
+Epoch [75/100] (Test):   8%| | 1/13 [00:00<00:03,  3.38it/s, Test Loss=2.6e-5, Test A
+Epoch [75/100] (Test):  77%|▊| 10/13 [00:02<00:00,  4.75it/s, Test Loss=0.00024, Test
+Epoch [75/100] (Test):  77%|▊| 10/13 [00:02<00:00,  4.75it/s, Test Loss=0.00024, Test
+Epoch [76/100] (Training):   3%| | 1/29 [00:00<00:26,  1.07it/s, Train Loss (Batch)=0
+Epoch [76/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.16it/s, Train Loss (Batch)=0
+Epoch [76/100] (Training):  21%|▏| 6/29 [00:05<00:19,  1.16it/s, Train Loss (Batch)=0
+Epoch [76/100] (Training):  28%|▎| 8/29 [00:06<00:17,  1.17it/s, Train Loss (Batch)=0
+Epoch [76/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.17it/s, Train Loss (Batch)=
+Epoch [76/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.17it/s, Train Loss (Batch)=
+Epoch [76/100] (Training):  52%|▌| 15/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [76/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.17it/s, Train Loss (Batch)=
+Epoch [76/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.17it/s, Train Loss (Batch)=
+Epoch [76/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.18it/s, Train Loss (Batch)=
+Epoch [76/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.15it/s, Train Loss (Batch)=
+Epoch [76/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.16it/s, Train Loss (Batch)=
+Epoch [76/100] (Test):  23%|▏| 3/13 [00:00<00:02,  4.25it/s, Test Loss=6.61e-5, Test
+Epoch [77/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [77/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [77/100] (Training):   7%| | 2/29 [00:01<00:24,  1.11it/s, Train Loss (Batch)=0
+Epoch [77/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.15it/s, Train Loss (Batch)=0
+Epoch [77/100] (Training):  24%|▏| 7/29 [00:06<00:18,  1.17it/s, Train Loss (Batch)=0
+Epoch [77/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.18it/s, Train Loss (Batch)=0
+Epoch [77/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.16it/s, Train Loss (Batch)=
+Epoch [77/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.18it/s, Train Loss (Batch)=
+Epoch [77/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.17it/s, Train Loss (Batch)=
+Epoch [77/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.16it/s, Train Loss (Batch)=
+Epoch [77/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.15it/s, Train Loss (Batch)=
+Epoch [77/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.15it/s, Train Loss (Batch)=
+Epoch [77/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.14it/s, Train Loss (Batch)=
+Epoch [77/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.13it/s, Train Loss (Batch)=
+Epoch [77/100] (Test):  31%|▎| 4/13 [00:00<00:02,  4.48it/s, Test Loss=8.89e-5, Test
+Epoch [77/100] (Test):  31%|▎| 4/13 [00:00<00:02,  4.48it/s, Test Loss=8.89e-5, Test
+Epoch [78/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [78/100] (Training):   7%| | 2/29 [00:01<00:24,  1.10it/s, Train Loss (Batch)=0
+Epoch [78/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.14it/s, Train Loss (Batch)=0
+Epoch [78/100] (Training):  24%|▏| 7/29 [00:06<00:19,  1.14it/s, Train Loss (Batch)=0
+Epoch [78/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.13it/s, Train Loss (Batch)=0
+Epoch [78/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.15it/s, Train Loss (Batch)=
+Epoch [78/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [78/100] (Training):  55%|▌| 16/29 [00:14<00:11,  1.14it/s, Train Loss (Batch)=
+Epoch [78/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.15it/s, Train Loss (Batch)=
+Epoch [78/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.16it/s, Train Loss (Batch)=
+Epoch [78/100] (Training):  79%|▊| 23/29 [00:20<00:05,  1.15it/s, Train Loss (Batch)=
+Epoch [78/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.15it/s, Train Loss (Batch)=
+Epoch [78/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.15it/s, Train Loss (Batch)=
+Epoch [78/100] (Test):  31%|▎| 4/13 [00:00<00:02,  4.45it/s, Test Loss=8.82e-5, Test
+Epoch [78/100] (Test):  31%|▎| 4/13 [00:00<00:02,  4.45it/s, Test Loss=8.82e-5, Test
+Epoch [79/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [79/100] (Training):   7%| | 2/29 [00:01<00:23,  1.13it/s, Train Loss (Batch)=0
+Epoch [79/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.16it/s, Train Loss (Batch)=0
+Epoch [79/100] (Training):  24%|▏| 7/29 [00:06<00:18,  1.17it/s, Train Loss (Batch)=0
+Epoch [79/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.18it/s, Train Loss (Batch)=0
+Epoch [79/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.16it/s, Train Loss (Batch)=
+Epoch [79/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.17it/s, Train Loss (Batch)=
+Epoch [79/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.16it/s, Train Loss (Batch)=
+Epoch [79/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.17it/s, Train Loss (Batch)=
+Epoch [79/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.17it/s, Train Loss (Batch)=
+Epoch [79/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.17it/s, Train Loss (Batch)=
+Epoch [79/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.17it/s, Train Loss (Batch)=
+Epoch [79/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [79/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.72it/s, Test Loss=0.000134, Test
+Epoch [79/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.72it/s, Test Loss=0.000134, Test
+Epoch [80/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [80/100] (Training):  10%| | 3/29 [00:02<00:23,  1.12it/s, Train Loss (Batch)=0
+Epoch [80/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.16it/s, Train Loss (Batch)=0
+Epoch [80/100] (Training):  24%|▏| 7/29 [00:06<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [80/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.17it/s, Train Loss (Batch)=
+Epoch [80/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.17it/s, Train Loss (Batch)=
+Epoch [80/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [80/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.16it/s, Train Loss (Batch)=
+Epoch [80/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.16it/s, Train Loss (Batch)=
+Epoch [80/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.16it/s, Train Loss (Batch)=
+Epoch [80/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.16it/s, Train Loss (Batch)=
+Epoch [80/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.16it/s, Train Loss (Batch)=
+Epoch [80/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [80/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.63it/s, Test Loss=0.000169, Test
+Epoch [80/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.63it/s, Test Loss=0.000169, Test
+Epoch [80/100] - Train Loss: 0.0003 - Test Loss: 0.00027498 - Test Acc: 100.00000000%
+Epoch [81/100] (Training):   3%| | 1/29 [00:00<00:26,  1.05it/s, Train Loss (Batch)=0
+Epoch [81/100] (Training):  10%| | 3/29 [00:02<00:23,  1.11it/s, Train Loss (Batch)=0
+Epoch [81/100] (Training):  17%|▏| 5/29 [00:04<00:21,  1.14it/s, Train Loss (Batch)=0
+Epoch [81/100] (Training):  28%|▎| 8/29 [00:07<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [81/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.16it/s, Train Loss (Batch)=
+Epoch [81/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.15it/s, Train Loss (Batch)=
+Epoch [81/100] (Training):  52%|▌| 15/29 [00:13<00:11,  1.17it/s, Train Loss (Batch)=
+Epoch [81/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.15it/s, Train Loss (Batch)=
+Epoch [81/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.16it/s, Train Loss (Batch)=
+Epoch [81/100] (Training):  72%|▋| 21/29 [00:19<00:06,  1.17it/s, Train Loss (Batch)=
+Epoch [81/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.17it/s, Train Loss (Batch)=
+Epoch [81/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.16it/s, Train Loss (Batch)=
+Epoch [81/100] (Training): 100%|█| 29/29 [00:25<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [81/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.69it/s, Test Loss=0.000165, Test
+Epoch [81/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.69it/s, Test Loss=0.000165, Test
+Epoch [82/100] (Training):   3%| | 1/29 [00:00<00:27,  1.03it/s, Train Loss (Batch)=0
+Epoch [82/100] (Training):  10%| | 3/29 [00:02<00:22,  1.14it/s, Train Loss (Batch)=0
+Epoch [82/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.15it/s, Train Loss (Batch)=0
+Epoch [82/100] (Training):  28%|▎| 8/29 [00:07<00:18,  1.15it/s, Train Loss (Batch)=0
+Epoch [82/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.16it/s, Train Loss (Batch)=
+Epoch [82/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.17it/s, Train Loss (Batch)=
+Epoch [82/100] (Training):  52%|▌| 15/29 [00:12<00:11,  1.17it/s, Train Loss (Batch)=
+Epoch [82/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.16it/s, Train Loss (Batch)=
+Epoch [82/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.15it/s, Train Loss (Batch)=
+Epoch [82/100] (Training):  76%|▊| 22/29 [00:19<00:06,  1.14it/s, Train Loss (Batch)=
+Epoch [82/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.14it/s, Train Loss (Batch)=
+Epoch [82/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.15it/s, Train Loss (Batch)=
+Epoch [82/100] (Test):   0%|                                  | 0/13 [00:00<?, ?it/s]
+Epoch [82/100] (Test):  69%|▋| 9/13 [00:01<00:00,  4.67it/s, Test Loss=0.00018, Test
+Epoch [82/100] (Test):  69%|▋| 9/13 [00:01<00:00,  4.67it/s, Test Loss=0.00018, Test
+Epoch [83/100] (Training):   3%| | 1/29 [00:00<00:26,  1.07it/s, Train Loss (Batch)=0
+Epoch [83/100] (Training):  10%| | 3/29 [00:02<00:22,  1.16it/s, Train Loss (Batch)=0
+Epoch [83/100] (Training):  21%|▏| 6/29 [00:05<00:19,  1.17it/s, Train Loss (Batch)=0
+Epoch [83/100] (Training):  28%|▎| 8/29 [00:06<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [83/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.17it/s, Train Loss (Batch)=
+Epoch [83/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.17it/s, Train Loss (Batch)=
+Epoch [83/100] (Training):  52%|▌| 15/29 [00:12<00:12,  1.17it/s, Train Loss (Batch)=
+Epoch [83/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.16it/s, Train Loss (Batch)=
+Epoch [83/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.16it/s, Train Loss (Batch)=
+Epoch [83/100] (Training):  76%|▊| 22/29 [00:18<00:06,  1.16it/s, Train Loss (Batch)=
+Epoch [83/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.13it/s, Train Loss (Batch)=
+Epoch [83/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.15it/s, Train Loss (Batch)=
+Epoch [83/100] (Test):   8%| | 1/13 [00:00<00:03,  3.38it/s, Test Loss=1.96e-5, Test
+Epoch [83/100] (Test):  77%|▊| 10/13 [00:02<00:00,  4.62it/s, Test Loss=0.000193, Tes
+Epoch [83/100] (Test):  77%|▊| 10/13 [00:02<00:00,  4.62it/s, Test Loss=0.000193, Tes
+Epoch [84/100] (Training):   3%| | 1/29 [00:00<00:26,  1.06it/s, Train Loss (Batch)=0
+Epoch [84/100] (Training):  14%|▏| 4/29 [00:03<00:22,  1.12it/s, Train Loss (Batch)=0
+Epoch [84/100] (Training):  21%|▏| 6/29 [00:05<00:20,  1.14it/s, Train Loss (Batch)=0
+Epoch [84/100] (Training):  28%|▎| 8/29 [00:07<00:18,  1.15it/s, Train Loss (Batch)=0
+Epoch [84/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.14it/s, Train Loss (Batch)=
+Epoch [84/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.15it/s, Train Loss (Batch)=
+Epoch [84/100] (Training):  52%|▌| 15/29 [00:13<00:12,  1.14it/s, Train Loss (Batch)=
+Epoch [84/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.16it/s, Train Loss (Batch)=
+Epoch [84/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.16it/s, Train Loss (Batch)=
+Epoch [84/100] (Training):  76%|▊| 22/29 [00:19<00:06,  1.15it/s, Train Loss (Batch)=
+Epoch [84/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.15it/s, Train Loss (Batch)=
+Epoch [84/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.14it/s, Train Loss (Batch)=
+Epoch [84/100] (Test):   8%| | 1/13 [00:00<00:03,  3.41it/s, Test Loss=1.82e-5, Test
+Epoch [84/100] (Test):  85%|▊| 11/13 [00:02<00:00,  4.67it/s, Test Loss=0.00021, Test
+Epoch [84/100] (Test):  85%|▊| 11/13 [00:02<00:00,  4.67it/s, Test Loss=0.00021, Test
+Epoch [85/100] (Training):   3%| | 1/29 [00:00<00:26,  1.06it/s, Train Loss (Batch)=0
+Epoch [85/100] (Training):  14%|▏| 4/29 [00:03<00:22,  1.13it/s, Train Loss (Batch)=0
+Epoch [85/100] (Training):  21%|▏| 6/29 [00:05<00:19,  1.15it/s, Train Loss (Batch)=0
+Epoch [85/100] (Training):  28%|▎| 8/29 [00:07<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [85/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.16it/s, Train Loss (Batch)=
+Epoch [85/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.17it/s, Train Loss (Batch)=
+Epoch [85/100] (Training):  52%|▌| 15/29 [00:12<00:11,  1.17it/s, Train Loss (Batch)=
+Epoch [85/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.18it/s, Train Loss (Batch)=
+Epoch [85/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.18it/s, Train Loss (Batch)=
+Epoch [85/100] (Training):  76%|▊| 22/29 [00:18<00:06,  1.16it/s, Train Loss (Batch)=
+Epoch [85/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.16it/s, Train Loss (Batch)=
+Epoch [85/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.16it/s, Train Loss (Batch)=
+Epoch [85/100] (Test):  23%|▏| 3/13 [00:00<00:02,  4.29it/s, Test Loss=5.56e-5, Test
+Epoch [85/100] (Test):  92%|▉| 12/13 [00:02<00:00,  4.70it/s, Test Loss=0.000223, Tes
+Epoch [85/100] (Test):  92%|▉| 12/13 [00:02<00:00,  4.70it/s, Test Loss=0.000223, Tes
+Epoch [86/100] (Training):   7%| | 2/29 [00:01<00:24,  1.09it/s, Train Loss (Batch)=0
+Epoch [86/100] (Training):  14%|▏| 4/29 [00:03<00:22,  1.13it/s, Train Loss (Batch)=0
+Epoch [86/100] (Training):  21%|▏| 6/29 [00:05<00:20,  1.14it/s, Train Loss (Batch)=0
+Epoch [86/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.15it/s, Train Loss (Batch)=0
+Epoch [86/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.16it/s, Train Loss (Batch)=
+Epoch [86/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.18it/s, Train Loss (Batch)=
+Epoch [86/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.16it/s, Train Loss (Batch)=
+Epoch [86/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.16it/s, Train Loss (Batch)=
+Epoch [86/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.16it/s, Train Loss (Batch)=
+Epoch [86/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.16it/s, Train Loss (Batch)=
+Epoch [86/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.16it/s, Train Loss (Batch)=
+Epoch [86/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.17it/s, Train Loss (Batch)=
+Epoch [86/100] (Test):  31%|▎| 4/13 [00:00<00:02,  4.34it/s, Test Loss=7.25e-5, Test
+Epoch [87/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [87/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [87/100] (Training):   7%| | 2/29 [00:01<00:23,  1.14it/s, Train Loss (Batch)=0
+Epoch [87/100] (Training):  14%|▏| 4/29 [00:03<00:22,  1.13it/s, Train Loss (Batch)=0
+Epoch [87/100] (Training):  24%|▏| 7/29 [00:06<00:18,  1.17it/s, Train Loss (Batch)=0
+Epoch [87/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.17it/s, Train Loss (Batch)=0
+Epoch [87/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.16it/s, Train Loss (Batch)=
+Epoch [87/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [87/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.18it/s, Train Loss (Batch)=
+Epoch [87/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.18it/s, Train Loss (Batch)=
+Epoch [87/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.17it/s, Train Loss (Batch)=
+Epoch [87/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.16it/s, Train Loss (Batch)=
+Epoch [87/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.15it/s, Train Loss (Batch)=
+Epoch [87/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [87/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.62it/s, Test Loss=8.61e-5, Test
+Epoch [87/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.62it/s, Test Loss=8.61e-5, Test
+Epoch [88/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [88/100] (Training):   7%| | 2/29 [00:01<00:24,  1.11it/s, Train Loss (Batch)=0
+Epoch [88/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.16it/s, Train Loss (Batch)=0
+Epoch [88/100] (Training):  24%|▏| 7/29 [00:06<00:19,  1.16it/s, Train Loss (Batch)=0
+Epoch [88/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.16it/s, Train Loss (Batch)=0
+Epoch [88/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.15it/s, Train Loss (Batch)=
+Epoch [88/100] (Training):  48%|▍| 14/29 [00:12<00:13,  1.14it/s, Train Loss (Batch)=
+Epoch [88/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.16it/s, Train Loss (Batch)=
+Epoch [88/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.18it/s, Train Loss (Batch)=
+Epoch [88/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.16it/s, Train Loss (Batch)=
+Epoch [88/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.15it/s, Train Loss (Batch)=
+Epoch [88/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.15it/s, Train Loss (Batch)=
+Epoch [88/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.15it/s, Train Loss (Batch)=
+Epoch [88/100] (Test):  54%|▌| 7/13 [00:01<00:01,  4.73it/s, Test Loss=0.000119, Test
+Epoch [88/100] (Test):  54%|▌| 7/13 [00:01<00:01,  4.73it/s, Test Loss=0.000119, Test
+Epoch [89/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [89/100] (Training):  10%| | 3/29 [00:02<00:22,  1.14it/s, Train Loss (Batch)=0
+Epoch [89/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.15it/s, Train Loss (Batch)=0
+Epoch [89/100] (Training):  24%|▏| 7/29 [00:06<00:19,  1.13it/s, Train Loss (Batch)=0
+Epoch [89/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.15it/s, Train Loss (Batch)=
+Epoch [89/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.15it/s, Train Loss (Batch)=
+Epoch [89/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.17it/s, Train Loss (Batch)=
+Epoch [89/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.15it/s, Train Loss (Batch)=
+Epoch [89/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.15it/s, Train Loss (Batch)=
+Epoch [89/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.15it/s, Train Loss (Batch)=
+Epoch [89/100] (Training):  79%|▊| 23/29 [00:20<00:05,  1.16it/s, Train Loss (Batch)=
+Epoch [89/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.15it/s, Train Loss (Batch)=
+Epoch [89/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.15it/s, Train Loss (Batch)=
+Epoch [89/100] (Test):  54%|▌| 7/13 [00:01<00:01,  4.64it/s, Test Loss=0.000114, Test
+Epoch [89/100] (Test):  54%|▌| 7/13 [00:01<00:01,  4.64it/s, Test Loss=0.000114, Test
+Epoch [90/100] (Training):   3%| | 1/29 [00:00<00:25,  1.08it/s, Train Loss (Batch)=0
+Epoch [90/100] (Training):  10%| | 3/29 [00:02<00:22,  1.15it/s, Train Loss (Batch)=0
+Epoch [90/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.16it/s, Train Loss (Batch)=0
+Epoch [90/100] (Training):  28%|▎| 8/29 [00:06<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [90/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.16it/s, Train Loss (Batch)=
+Epoch [90/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.17it/s, Train Loss (Batch)=
+Epoch [90/100] (Training):  52%|▌| 15/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [90/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.16it/s, Train Loss (Batch)=
+Epoch [90/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.16it/s, Train Loss (Batch)=
+Epoch [90/100] (Training):  72%|▋| 21/29 [00:18<00:07,  1.13it/s, Train Loss (Batch)=
+Epoch [90/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.16it/s, Train Loss (Batch)=
+Epoch [90/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.16it/s, Train Loss (Batch)=
+Epoch [90/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [90/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.71it/s, Test Loss=0.000133, Test
+Epoch [90/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.71it/s, Test Loss=0.000133, Test
+Epoch [90/100] - Train Loss: 0.0002 - Test Loss: 0.00021453 - Test Acc: 100.00000000%
+Epoch [91/100] (Training):   3%| | 1/29 [00:00<00:25,  1.09it/s, Train Loss (Batch)=0
+Epoch [91/100] (Training):  10%| | 3/29 [00:02<00:22,  1.16it/s, Train Loss (Batch)=0
+Epoch [91/100] (Training):  21%|▏| 6/29 [00:05<00:19,  1.18it/s, Train Loss (Batch)=0
+Epoch [91/100] (Training):  28%|▎| 8/29 [00:06<00:17,  1.17it/s, Train Loss (Batch)=0
+Epoch [91/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.16it/s, Train Loss (Batch)=
+Epoch [91/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.15it/s, Train Loss (Batch)=
+Epoch [91/100] (Training):  52%|▌| 15/29 [00:13<00:12,  1.10it/s, Train Loss (Batch)=
+Epoch [91/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.13it/s, Train Loss (Batch)=
+Epoch [91/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.16it/s, Train Loss (Batch)=
+Epoch [91/100] (Training):  76%|▊| 22/29 [00:19<00:06,  1.16it/s, Train Loss (Batch)=
+Epoch [91/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.16it/s, Train Loss (Batch)=
+Epoch [91/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.15it/s, Train Loss (Batch)=
+Epoch [91/100] (Test):   0%|                                  | 0/13 [00:00<?, ?it/s]
+Epoch [91/100] (Test):  69%|▋| 9/13 [00:02<00:00,  4.62it/s, Test Loss=0.000146, Test
+Epoch [91/100] (Test):  69%|▋| 9/13 [00:02<00:00,  4.62it/s, Test Loss=0.000146, Test
+Epoch [92/100] (Training):   3%| | 1/29 [00:00<00:26,  1.05it/s, Train Loss (Batch)=0
+Epoch [92/100] (Training):  10%| | 3/29 [00:02<00:22,  1.16it/s, Train Loss (Batch)=0
+Epoch [92/100] (Training):  21%|▏| 6/29 [00:05<00:19,  1.17it/s, Train Loss (Batch)=0
+Epoch [92/100] (Training):  28%|▎| 8/29 [00:06<00:17,  1.18it/s, Train Loss (Batch)=0
+Epoch [92/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.17it/s, Train Loss (Batch)=
+Epoch [92/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.17it/s, Train Loss (Batch)=
+Epoch [92/100] (Training):  52%|▌| 15/29 [00:12<00:11,  1.17it/s, Train Loss (Batch)=
+Epoch [92/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.17it/s, Train Loss (Batch)=
+Epoch [92/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.17it/s, Train Loss (Batch)=
+Epoch [92/100] (Training):  76%|▊| 22/29 [00:18<00:05,  1.18it/s, Train Loss (Batch)=
+Epoch [92/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.18it/s, Train Loss (Batch)=
+Epoch [92/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.17it/s, Train Loss (Batch)=
+Epoch [92/100] (Test):  15%|▏| 2/13 [00:00<00:02,  4.02it/s, Test Loss=3.09e-5, Test
+Epoch [92/100] (Test):  85%|▊| 11/13 [00:02<00:00,  4.68it/s, Test Loss=0.000171, Tes
+Epoch [92/100] (Test):  85%|▊| 11/13 [00:02<00:00,  4.68it/s, Test Loss=0.000171, Tes
+Epoch [93/100] (Training):   3%| | 1/29 [00:00<00:26,  1.05it/s, Train Loss (Batch)=0
+Epoch [93/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.15it/s, Train Loss (Batch)=0
+Epoch [93/100] (Training):  21%|▏| 6/29 [00:05<00:20,  1.15it/s, Train Loss (Batch)=0
+Epoch [93/100] (Training):  28%|▎| 8/29 [00:06<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [93/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.17it/s, Train Loss (Batch)=
+Epoch [93/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.17it/s, Train Loss (Batch)=
+Epoch [93/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.17it/s, Train Loss (Batch)=
+Epoch [93/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.18it/s, Train Loss (Batch)=
+Epoch [93/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.17it/s, Train Loss (Batch)=
+Epoch [93/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.16it/s, Train Loss (Batch)=
+Epoch [93/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.15it/s, Train Loss (Batch)=
+Epoch [93/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.16it/s, Train Loss (Batch)=
+Epoch [93/100] (Test):  23%|▏| 3/13 [00:00<00:02,  4.48it/s, Test Loss=4.78e-5, Test
+Epoch [94/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [94/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [94/100] (Training):   7%| | 2/29 [00:01<00:23,  1.13it/s, Train Loss (Batch)=0
+Epoch [94/100] (Training):  14%|▏| 4/29 [00:03<00:22,  1.10it/s, Train Loss (Batch)=0
+Epoch [94/100] (Training):  21%|▏| 6/29 [00:05<00:20,  1.12it/s, Train Loss (Batch)=0
+Epoch [94/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.16it/s, Train Loss (Batch)=0
+Epoch [94/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.16it/s, Train Loss (Batch)=
+Epoch [94/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.18it/s, Train Loss (Batch)=
+Epoch [94/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.18it/s, Train Loss (Batch)=
+Epoch [94/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.18it/s, Train Loss (Batch)=
+Epoch [94/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.18it/s, Train Loss (Batch)=
+Epoch [94/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.18it/s, Train Loss (Batch)=
+Epoch [94/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.16it/s, Train Loss (Batch)=
+Epoch [94/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [94/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.57it/s, Test Loss=7.52e-5, Test
+Epoch [94/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.57it/s, Test Loss=7.52e-5, Test
+Epoch [95/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [95/100] (Training):   7%| | 2/29 [00:01<00:25,  1.08it/s, Train Loss (Batch)=0
+Epoch [95/100] (Training):  17%|▏| 5/29 [00:04<00:21,  1.13it/s, Train Loss (Batch)=0
+Epoch [95/100] (Training):  24%|▏| 7/29 [00:06<00:19,  1.15it/s, Train Loss (Batch)=0
+Epoch [95/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.15it/s, Train Loss (Batch)=0
+Epoch [95/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.16it/s, Train Loss (Batch)=
+Epoch [95/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [95/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.16it/s, Train Loss (Batch)=
+Epoch [95/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.16it/s, Train Loss (Batch)=
+Epoch [95/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.17it/s, Train Loss (Batch)=
+Epoch [95/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.17it/s, Train Loss (Batch)=
+Epoch [95/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.15it/s, Train Loss (Batch)=
+Epoch [95/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)=
+Epoch [95/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.60it/s, Test Loss=8.73e-5, Test
+Epoch [95/100] (Test):  46%|▍| 6/13 [00:01<00:01,  4.60it/s, Test Loss=8.73e-5, Test
+Epoch [96/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [96/100] (Training):  10%| | 3/29 [00:02<00:23,  1.11it/s, Train Loss (Batch)=0
+Epoch [96/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.14it/s, Train Loss (Batch)=0
+Epoch [96/100] (Training):  24%|▏| 7/29 [00:06<00:19,  1.15it/s, Train Loss (Batch)=0
+Epoch [96/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.15it/s, Train Loss (Batch)=
+Epoch [96/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.16it/s, Train Loss (Batch)=
+Epoch [96/100] (Training):  48%|▍| 14/29 [00:12<00:13,  1.15it/s, Train Loss (Batch)=
+Epoch [96/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.14it/s, Train Loss (Batch)=
+Epoch [96/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.15it/s, Train Loss (Batch)=
+Epoch [96/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.16it/s, Train Loss (Batch)=
+Epoch [96/100] (Training):  79%|▊| 23/29 [00:20<00:05,  1.15it/s, Train Loss (Batch)=
+Epoch [96/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.16it/s, Train Loss (Batch)=
+Epoch [96/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.14it/s, Train Loss (Batch)=
+Epoch [96/100] (Test):  54%|▌| 7/13 [00:01<00:01,  4.70it/s, Test Loss=0.000101, Test
+Epoch [96/100] (Test):  54%|▌| 7/13 [00:01<00:01,  4.70it/s, Test Loss=0.000101, Test
+Epoch [97/100] (Training):   0%|                              | 0/29 [00:00<?, ?it/s]
+Epoch [97/100] (Training):  10%| | 3/29 [00:02<00:22,  1.15it/s, Train Loss (Batch)=0
+Epoch [97/100] (Training):  17%|▏| 5/29 [00:04<00:20,  1.16it/s, Train Loss (Batch)=0
+Epoch [97/100] (Training):  24%|▏| 7/29 [00:06<00:18,  1.17it/s, Train Loss (Batch)=0
+Epoch [97/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.16it/s, Train Loss (Batch)=
+Epoch [97/100] (Training):  41%|▍| 12/29 [00:10<00:14,  1.15it/s, Train Loss (Batch)=
+Epoch [97/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.17it/s, Train Loss (Batch)=
+Epoch [97/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.16it/s, Train Loss (Batch)=
+Epoch [97/100] (Training):  66%|▋| 19/29 [00:16<00:08,  1.15it/s, Train Loss (Batch)=
+Epoch [97/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.16it/s, Train Loss (Batch)=
+Epoch [97/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.16it/s, Train Loss (Batch)=
+Epoch [97/100] (Training):  90%|▉| 26/29 [00:22<00:02,  1.17it/s, Train Loss (Batch)=
+Epoch [97/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.17it/s, Train Loss (Batch)=
+Epoch [97/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.68it/s, Test Loss=0.000113, Test
+Epoch [97/100] (Test):  62%|▌| 8/13 [00:01<00:01,  4.68it/s, Test Loss=0.000113, Test
+Epoch [98/100] (Training):   3%| | 1/29 [00:00<00:25,  1.08it/s, Train Loss (Batch)=0
+Epoch [98/100] (Training):  10%| | 3/29 [00:02<00:22,  1.14it/s, Train Loss (Batch)=0
+Epoch [98/100] (Training):  21%|▏| 6/29 [00:05<00:19,  1.16it/s, Train Loss (Batch)=0
+Epoch [98/100] (Training):  28%|▎| 8/29 [00:06<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [98/100] (Training):  34%|▎| 10/29 [00:08<00:16,  1.16it/s, Train Loss (Batch)=
+Epoch [98/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.15it/s, Train Loss (Batch)=
+Epoch [98/100] (Training):  52%|▌| 15/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)=
+Epoch [98/100] (Training):  59%|▌| 17/29 [00:14<00:10,  1.17it/s, Train Loss (Batch)=
+Epoch [98/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.16it/s, Train Loss (Batch)=
+Epoch [98/100] (Training):  76%|▊| 22/29 [00:18<00:06,  1.16it/s, Train Loss (Batch)=
+Epoch [98/100] (Training):  83%|▊| 24/29 [00:20<00:04,  1.16it/s, Train Loss (Batch)=
+Epoch [98/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.16it/s, Train Loss (Batch)=
+Epoch [98/100] (Test):   8%| | 1/13 [00:00<00:03,  3.47it/s, Test Loss=1.3e-5, Test A
+Epoch [98/100] (Test):  77%|▊| 10/13 [00:02<00:00,  4.86it/s, Test Loss=0.000136, Tes
+Epoch [98/100] (Test):  77%|▊| 10/13 [00:02<00:00,  4.86it/s, Test Loss=0.000136, Tes
+Epoch [99/100] (Training):   3%| | 1/29 [00:00<00:26,  1.06it/s, Train Loss (Batch)=0
+Epoch [99/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.16it/s, Train Loss (Batch)=0
+Epoch [99/100] (Training):  21%|▏| 6/29 [00:05<00:19,  1.17it/s, Train Loss (Batch)=0
+Epoch [99/100] (Training):  28%|▎| 8/29 [00:06<00:18,  1.16it/s, Train Loss (Batch)=0
+Epoch [99/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.17it/s, Train Loss (Batch)=
+Epoch [99/100] (Training):  45%|▍| 13/29 [00:11<00:13,  1.17it/s, Train Loss (Batch)=
+Epoch [99/100] (Training):  52%|▌| 15/29 [00:12<00:11,  1.17it/s, Train Loss (Batch)=
+Epoch [99/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.16it/s, Train Loss (Batch)=
+Epoch [99/100] (Training):  69%|▋| 20/29 [00:17<00:07,  1.16it/s, Train Loss (Batch)=
+Epoch [99/100] (Training):  76%|▊| 22/29 [00:18<00:05,  1.17it/s, Train Loss (Batch)=
+Epoch [99/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.17it/s, Train Loss (Batch)=
+Epoch [99/100] (Training):  93%|▉| 27/29 [00:23<00:01,  1.16it/s, Train Loss (Batch)=
+Epoch [99/100] (Test):  23%|▏| 3/13 [00:00<00:02,  4.53it/s, Test Loss=3.98e-5, Test
+Epoch [100/100] (Training):   0%|                             | 0/29 [00:00<?, ?it/s]
+Epoch [100/100] (Training):   0%|                             | 0/29 [00:00<?, ?it/s]
+Epoch [100/100] (Training):   7%| | 2/29 [00:01<00:23,  1.14it/s, Train Loss (Batch)=
+Epoch [100/100] (Training):  14%|▏| 4/29 [00:03<00:21,  1.16it/s, Train Loss (Batch)=
+Epoch [100/100] (Training):  24%|▏| 7/29 [00:06<00:18,  1.16it/s, Train Loss (Batch)=
+Epoch [100/100] (Training):  31%|▎| 9/29 [00:07<00:17,  1.16it/s, Train Loss (Batch)=
+Epoch [100/100] (Training):  38%|▍| 11/29 [00:09<00:15,  1.17it/s, Train Loss (Batch)
+Epoch [100/100] (Training):  48%|▍| 14/29 [00:12<00:12,  1.16it/s, Train Loss (Batch)
+Epoch [100/100] (Training):  55%|▌| 16/29 [00:13<00:11,  1.16it/s, Train Loss (Batch)
+Epoch [100/100] (Training):  62%|▌| 18/29 [00:15<00:09,  1.16it/s, Train Loss (Batch)
+Epoch [100/100] (Training):  72%|▋| 21/29 [00:18<00:06,  1.16it/s, Train Loss (Batch)
+Epoch [100/100] (Training):  79%|▊| 23/29 [00:19<00:05,  1.16it/s, Train Loss (Batch)
+Epoch [100/100] (Training):  86%|▊| 25/29 [00:21<00:03,  1.14it/s, Train Loss (Batch)
+Epoch [100/100] (Training):  97%|▉| 28/29 [00:24<00:00,  1.16it/s, Train Loss (Batch)
+Epoch [100/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.61it/s, Test Loss=6.64e-5, Test
+Epoch [100/100] (Test):  38%|▍| 5/13 [00:01<00:01,  4.61it/s, Test Loss=6.64e-5, Test
+Epoch [100/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.79it/s, Test Loss=0.00017, Tes
+Epoch [100/100] (Test): 100%|█| 13/13 [00:02<00:00,  4.79it/s, Test Loss=0.00017, Tes
+Checkpoint saved at epoch 100
