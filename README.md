@@ -76,7 +76,7 @@ https://github.com/amitparag/Attention-Classification/assets/19486899/11a95897-6
 After the data has been collected, we augment the data by adding noise and swapping channels in each video
 
 
-A transformed video would look like:
+A transformed video of 5 frames would look like:
 
 
 https://github.com/amitparag/Attention-Classification/assets/19486899/53fcfa95-814f-4430-8d32-452754c32f6b
