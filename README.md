@@ -239,9 +239,6 @@ See [requirements.txt](https://github.com/amitparag/Attention-Classification/blo
     
 Numpy, preferably 1.20.0. Higher versions have changed numpy.bool to bool. Might lead to clashes.
 
-Use [Pyav](https://pypi.org/project/av/), [Imgaug](https://github.com/aleju/imgaug)
-and [Imageio-ffmpeg](https://pypi.org/project/imageio-ffmpeg/) for processing and augmenting the dataset.
-
 See [notes](https://github.com/amitparag/Attention-Classification/tree/main/notes) for instructions on installing real time kernel and libfranka. 
     
 #### Acknowledgements
