@@ -79,9 +79,7 @@ After the data has been collected, we augment the data by adding noise and swapp
 A transformed video would look like:
 
 
-
-
-
+https://github.com/amitparag/Attention-Classification/assets/19486899/53fcfa95-814f-4430-8d32-452754c32f6b
 
 
 Data from 25 objects were kept aside for training. After data transformation the new augmented dataset contained 110 slip cases and 408 wriggle cases.
