@@ -1,3 +1,7 @@
+# OLD STUFF.SEE INCIPIENT SLIP DETECTION
+
+
+
 ### Attention-Classification
 *Slip detection* with [Franka Emika](https://www.franka.de/) and [GelSight Sensors](https://www.gelsight.com/gelsightmini/) .
 
